@@ -63,7 +63,7 @@ You can also access the files directly from your pipeline, but this will require
 2. Manually run the dag. Wait a few mins, check the data reconciliation log in task.
 3. Access snowflake and do your analysis! 
 <!-- LICENSE -->
-## License
+## Technical case study data analysis question results
+![image](https://github.com/Jlau-downunder/onedata-de-technical-case-study/assets/134078268/f0f1b244-14b8-4351-8a3e-f16d89abf683)
+![image](https://github.com/Jlau-downunder/onedata-de-technical-case-study/assets/134078268/2d37f8c2-c2bc-4852-a3a6-fef89bcd106b)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
