@@ -60,8 +60,9 @@ You can also access the files directly from your pipeline, but this will require
 
 ## Run the pipeline
 1. Access airflow web server on port:8081
-2. Manually run the dag. Wait a few mins, check the data reconciliation log in task.
-3. Access snowflake and do your analysis! 
+2. Update airflow variables to contain relevant snowflake credentials
+3. Manually run the dag. Wait a few mins, check the data reconciliation log in task.
+4. Access snowflake and do your analysis! 
 <!-- LICENSE -->
 ## Technical case study data analysis question results
 ![image](https://github.com/Jlau-downunder/onedata-de-technical-case-study/assets/134078268/f0f1b244-14b8-4351-8a3e-f16d89abf683)
