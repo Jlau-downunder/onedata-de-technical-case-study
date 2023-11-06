@@ -1,0 +1,76 @@
+INSERT INTO pan_evaporation.year_2009 (id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2009;
+
+INSERT INTO pan_evaporation.year_2010 (id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2010;
+
+INSERT INTO pan_evaporation.year_2011 (id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2011;
+
+INSERT INTO pan_evaporation.year_2012 (id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2012;
+
+INSERT INTO pan_evaporation.year_2013 (id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2013;
+
+INSERT INTO pan_evaporation.year_2014 (id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2014;
+
+INSERT INTO pan_evaporation.year_2015 (id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2015;
+
+INSERT INTO pan_evaporation.year_2016(id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2016;
+
+INSERT INTO pan_evaporation.year_2017(id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2017;
+
+INSERT INTO pan_evaporation.year_2018(id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2018;
+
+INSERT INTO pan_evaporation.year_2019(id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2019;
+
+INSERT INTO pan_evaporation.year_2020(id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2020;
+
+
+INSERT INTO pan_evaporation.year_2021(id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2021;
+
+INSERT INTO pan_evaporation.year_2022(id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2022;
+
+
+INSERT INTO pan_evaporation.year_2023(id, date, pan_evaporation_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, pan_evaporation_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR, date) = 2023;

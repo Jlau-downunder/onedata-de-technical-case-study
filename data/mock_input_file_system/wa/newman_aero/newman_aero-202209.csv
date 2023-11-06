@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NEWMAN AERO Western Australia for September 2022,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 October 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NEWMAN AERO,01/09/2022,6.4,0.0, ,27.6,12.2,38,18,4.49,20.98
+NEWMAN AERO,02/09/2022,5.9,0.0, ,25.6,16.6,66,18,5.57,14.48
+NEWMAN AERO,03/09/2022,1.5,32.8, ,15.4,12.2,99,72,3.67,5.82
+NEWMAN AERO,04/09/2022,3.3,19.2, ,22.3,12.2,99,51,3.75,16.24
+NEWMAN AERO,05/09/2022,3.5,0.0, ,22.9,13.7,90,44,3.30,15.31
+NEWMAN AERO,06/09/2022,4.4,0.0, ,22.6,11.2,97,34,3.91,22.14
+NEWMAN AERO,07/09/2022,4.5,0.0, ,22.6,9.2,88,26,3.52,22.23
+NEWMAN AERO,08/09/2022,4.6,0.0, ,24.7,8.0,93,20,2.81,22.33
+NEWMAN AERO,09/09/2022,4.0,0.0, ,24.6,16.2,68,20,2.83,10.92
+NEWMAN AERO,10/09/2022,5.5,0.0, ,26.0,12.9,72,28,4.31,22.11
+NEWMAN AERO,11/09/2022,5.2,0.0, ,28.1,10.7,86,20,2.85,22.68
+NEWMAN AERO,12/09/2022,6.6,0.0, ,30.9,12.1,79,16,4.14,22.73
+NEWMAN AERO,13/09/2022,6.3,0.0, ,29.0,12.4,77,23,4.54,22.92
+NEWMAN AERO,14/09/2022,5.7,0.0, ,25.1,13.5,66,21,4.06,23.03
+NEWMAN AERO,15/09/2022,5.9,0.0, ,25.7,12.3,53,15,3.72,22.90
+NEWMAN AERO,16/09/2022,6.0,0.0, ,27.0,10.3,59,11,3.49,23.26
+NEWMAN AERO,17/09/2022,5.0,0.0, ,28.9,9.5,68,12,1.91,23.49
+NEWMAN AERO,18/09/2022,6.3,0.0, ,32.8,10.7,71,10,2.79,23.59
+NEWMAN AERO,19/09/2022,7.8,0.0, ,27.3,13.9,50,13,6.24,23.76
+NEWMAN AERO,20/09/2022,6.3,0.0, ,25.7,9.7,60,18,4.66,23.90
+NEWMAN AERO,21/09/2022,5.7,0.0, ,29.9,8.8,67,9,2.51,24.01
+NEWMAN AERO,22/09/2022,5.6,0.0, ,32.8,11.1,56,8,1.91,24.15
+NEWMAN AERO,23/09/2022,6.9,0.0, ,36.0,15.3,45,9,2.70,24.32
+NEWMAN AERO,24/09/2022,8.1,0.0, ,35.5,14.4,62,13,4.48,22.03
+NEWMAN AERO,25/09/2022,7.4,0.0, ,29.2,17.2,36,14,4.29,24.56
+NEWMAN AERO,26/09/2022,7.3,0.0, ,26.9,15.5,38,14,4.73,24.68
+NEWMAN AERO,27/09/2022,6.8,0.0, ,28.0,9.7,46,13,4.05,24.81
+NEWMAN AERO,28/09/2022,6.1,0.0, ,31.1,13.9,50,16,2.81,22.49
+NEWMAN AERO,29/09/2022,6.1,0.0, ,31.4,20.8,90,18,4.65,14.91
+NEWMAN AERO,30/09/2022,5.6,5.2, ,26.8,15.6,91,29,4.85,20.02
+Totals:,,170.3,57.2, ,,,,,, 

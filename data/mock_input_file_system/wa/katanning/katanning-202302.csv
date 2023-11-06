@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for February 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 March 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,01/02/2023,6.6,0.0, ,25.3,12.4,87,28,6.65,25.04
+KATANNING,02/02/2023,7.3,0.0, ,27.9,9.3,83,27,5.81,28.68
+KATANNING,03/02/2023,7.9,0.0, ,29.9,14.4,83,23,5.75,28.37
+KATANNING,04/02/2023,8.0,0.0, ,34.0,12.5,82,13,3.72,28.35
+KATANNING,05/02/2023,6.9,0.0, ,35.7,19.1,59,13,3.31,16.62
+KATANNING,06/02/2023,8.1,0.0, ,32.2,16.7,84,17,4.74,27.87
+KATANNING,07/02/2023,5.2,0.0, ,26.6,15.3,86,40,4.49,19.99
+KATANNING,08/02/2023,4.9,0.0, ,26.3,15.8,85,37,3.60,18.41
+KATANNING,09/02/2023,6.5,0.0, ,29.1,10.7,86,25,3.64,27.63
+KATANNING,10/02/2023,7.7,0.0, ,31.5,12.9,83,21,4.81,27.54
+KATANNING,11/02/2023,6.1,0.0, ,26.9,11.4,85,22,3.53,26.86
+KATANNING,12/02/2023,7.0,0.0, ,28.1,11.1,78,18,4.48,27.12
+KATANNING,13/02/2023,7.1,0.0, ,34.4,10.9,84,21,3.10,26.99
+KATANNING,14/02/2023,7.2,0.0, ,31.0,13.9,82,20,4.29,26.03
+KATANNING,15/02/2023,5.1,0.0, ,26.4,14.7,85,24,3.16,19.65
+KATANNING,16/02/2023,5.6,0.0, ,28.9,10.4,80,22,2.14,26.47
+KATANNING,17/02/2023, ,0.0, , ,13.2,80,23,2.19,26.36
+KATANNING,18/02/2023,7.6, , ,34.8,16.1,79,18,3.71,26.21
+KATANNING,19/02/2023,7.6,0.0, ,31.6,16.0,82,27,5.48,25.70
+KATANNING,20/02/2023,6.4,0.0, ,27.6,15.4,76,39,6.65,21.84
+KATANNING,21/02/2023,8.4,0.0, ,37.3,17.0,85,21,4.54,25.61
+KATANNING,22/02/2023,6.6,0.0, ,32.7,15.5,82,22,3.08,25.38
+KATANNING,23/02/2023,5.3,0.0, ,23.0,13.9,79,28,5.45,18.40
+KATANNING,24/02/2023,5.6,0.0, ,25.7,7.4,73,21,3.35,25.07
+KATANNING,25/02/2023,6.1,0.0, ,28.1,9.6,80,26,3.88,24.91
+KATANNING,26/02/2023,7.0,0.0, ,31.3,14.4,80,21,4.25,24.74
+KATANNING,27/02/2023,6.2,0.0, ,31.1,15.1,83,25,4.16,19.26
+KATANNING,28/02/2023,5.9,0.0, ,26.6,16.5,77,36,6.31,18.24
+Totals:,,179.9,0, ,,,,,, 

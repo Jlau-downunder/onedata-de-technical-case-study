@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for SWANBOURNE Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+SWANBOURNE,28/10/2023,5.7,0.0, ,22.9,10.6,72,37,4.97,27.67
+SWANBOURNE,29/10/2023,3.6,0.0, ,20.1,11.4,83,62,3.35,20.82
+SWANBOURNE,30/10/2023,5.4,0.0, ,21.0,11.3,72,40,4.82,27.94
+SWANBOURNE,31/10/2023,6.7,0.0, ,26.4,13.4,74,28,5.54,26.00
+SWANBOURNE,01/11/2023,5.9,0.0, ,25.9,14.1,79,39,4.04,28.27
+SWANBOURNE,02/11/2023,7.8,0.0, ,31.6,17.1,76,27,5.01,28.24
+SWANBOURNE,03/11/2023,10.4,0.0, ,35.7,17.4,57,17,6.60,26.39
+Totals:,,45.5,0, ,,,,,, 

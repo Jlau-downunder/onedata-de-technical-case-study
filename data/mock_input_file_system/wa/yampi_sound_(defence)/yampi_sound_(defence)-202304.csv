@@ -1,0 +1,35 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for YAMPI SOUND (DEFENCE) Western Australia for April 2023,,,,,,,,,,
+Issued at 22:30 GMT on Monday 01 May 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+YAMPI SOUND (DEFENCE),01/04/2023,5.2,0.0, ,35.8,25.2,99,41,0.94,24.37
+YAMPI SOUND (DEFENCE),02/04/2023,5.5,0.0, ,37.1,26.6,99,46,1.38,23.91
+YAMPI SOUND (DEFENCE),03/04/2023,3.1,72.8, ,32.5,22.8,100,62,0.71,13.98
+YAMPI SOUND (DEFENCE),04/04/2023,4.9,0.2, ,35.6,23.7,100,41,0.73,23.79
+YAMPI SOUND (DEFENCE),05/04/2023,5.0,0.0, ,35.7,24.8,100,44,0.86,23.22
+YAMPI SOUND (DEFENCE),06/04/2023,5.0,12.0, ,33.9,24.0,96,54,1.71,22.58
+YAMPI SOUND (DEFENCE),07/04/2023,4.7,0.0, ,34.5,24.3,99,57,1.36,21.73
+YAMPI SOUND (DEFENCE),08/04/2023,4.8,0.0, ,36.8,26.3,99,32,1.12,20.35
+YAMPI SOUND (DEFENCE),09/04/2023,3.7,0.0, ,33.4,25.1,99,52,0.74,16.81
+YAMPI SOUND (DEFENCE),10/04/2023,3.0,0.0, ,33.3,25.8,100,56,0.87,12.64
+YAMPI SOUND (DEFENCE),11/04/2023, ,1.2, , ,25.0,99,60,1.54,12.44
+YAMPI SOUND (DEFENCE),12/04/2023, , , , , ,100,83,1.58,6.70
+YAMPI SOUND (DEFENCE),13/04/2023, , , ,33.1, ,100,63,1.64,12.56
+YAMPI SOUND (DEFENCE),14/04/2023,4.2,30.4, ,33.1,24.2,100,51,1.35,18.96
+YAMPI SOUND (DEFENCE),15/04/2023,4.5,3.2, ,33.4,23.1,100,52,1.13,21.46
+YAMPI SOUND (DEFENCE),16/04/2023, ,0.0, , ,21.2,100,44,1.63,22.89
+YAMPI SOUND (DEFENCE),17/04/2023, , , , , , , , ,22.67
+YAMPI SOUND (DEFENCE),27/04/2023, , , , , , , , ,21.59
+YAMPI SOUND (DEFENCE),28/04/2023, , , , , , , , ,17.78
+YAMPI SOUND (DEFENCE),29/04/2023,4.4, , ,34.0,20.5,98,22,1.53,19.52
+YAMPI SOUND (DEFENCE),30/04/2023,4.2,0.0, ,34.8,16.8,96,28,1.04,21.34
+Totals:,,62.2,119.8, ,,,,,, 

@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PEARCE RAAF Western Australia for September 2022,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 October 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PEARCE RAAF,01/09/2022,4.5,0.0, ,21.2,11.0,74,37,6.14,18.50
+PEARCE RAAF,02/09/2022,5.1,0.0, ,20.1,13.9,49,40,7.55,13.59
+PEARCE RAAF,03/09/2022,3.2,5.0, ,16.4,12.1,86,50,7.77,11.52
+PEARCE RAAF,04/09/2022,2.5,0.0, ,20.9,12.6,94,64,3.60,13.21
+PEARCE RAAF,05/09/2022,2.4,4.2, ,18.3,13.3,95,57,3.48,11.39
+PEARCE RAAF,06/09/2022,2.6,9.0, ,17.3,9.7,94,57,4.00,16.13
+PEARCE RAAF,07/09/2022,2.3,1.4, ,18.4,5.2,94,57,2.48,13.99
+PEARCE RAAF,08/09/2022,2.6,1.0, ,19.0,5.9,94,50,3.14,13.87
+PEARCE RAAF,09/09/2022,3.4,0.0, ,21.8,11.0,85,42,2.53,18.35
+PEARCE RAAF,10/09/2022,2.9,0.0, ,22.1,6.3,93,40,1.42,18.53
+PEARCE RAAF,11/09/2022,3.5,0.0, ,24.5,5.0,93,33,2.32,17.26
+PEARCE RAAF,12/09/2022,4.0,0.0, ,24.0,9.2,88,42,3.67,19.06
+PEARCE RAAF,13/09/2022,3.0,13.4, ,18.2,12.5,91,60,7.97,13.81
+PEARCE RAAF,14/09/2022,3.3,4.2, ,19.1,11.5,89,52,5.79,14.23
+PEARCE RAAF,15/09/2022,2.6,2.0, ,18.9,11.0,93,56,3.23,13.74
+PEARCE RAAF,16/09/2022,2.7,0.2, ,20.2,9.7,94,56,2.11,15.58
+PEARCE RAAF,17/09/2022,2.5,0.2, ,20.3,6.1,94,56,1.87,14.53
+PEARCE RAAF,18/09/2022,3.1,0.0, ,21.0,9.7,94,48,2.66,17.16
+PEARCE RAAF,19/09/2022,3.1,6.2, ,18.0,10.3,90,57,5.37,16.07
+PEARCE RAAF,20/09/2022,2.5,1.8, ,18.9,10.5,91,61,3.45,11.98
+PEARCE RAAF,21/09/2022,3.5,1.2, ,21.3,7.9,94,50,4.53,17.79
+PEARCE RAAF,22/09/2022,3.5,6.0, ,18.8,9.3,92,37,2.61,20.89
+PEARCE RAAF,23/09/2022,3.5,0.2, ,20.3,6.2,88,46,2.78,21.96
+PEARCE RAAF,24/09/2022,3.4,0.8, ,18.3,10.8,93,43,4.01,17.43
+PEARCE RAAF,25/09/2022,2.9,0.0, ,19.4,3.3,93,44,2.08,17.31
+PEARCE RAAF,26/09/2022,3.9,0.0, ,21.9,5.7,92,40,2.88,22.41
+PEARCE RAAF,27/09/2022,4.4,0.0, ,25.7,7.4,92,29,2.29,22.83
+PEARCE RAAF,28/09/2022,4.9,0.0, ,27.0,8.2,90,22,2.81,21.76
+PEARCE RAAF,29/09/2022,7.3,0.0, ,28.1,13.9,76,19,6.35,23.11
+PEARCE RAAF,30/09/2022,7.0,0.0, ,27.1,15.7,58,27,5.94,23.25
+Totals:,,106.1,56.8, ,,,,,, 

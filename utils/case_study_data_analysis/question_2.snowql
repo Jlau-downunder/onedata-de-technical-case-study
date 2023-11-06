@@ -1,0 +1,119 @@
+WITH
+cte1 AS (
+    SELECT * FROM temperature.year_2009
+    UNION
+    SELECT * FROM temperature.year_2010
+    UNION
+    SELECT * FROM temperature.year_2011
+    UNION
+    SELECT * FROM temperature.year_2012
+    UNION
+    SELECT * FROM temperature.year_2013
+    UNION
+    SELECT * FROM temperature.year_2014
+    UNION
+    SELECT * FROM temperature.year_2015
+    UNION
+    SELECT * FROM temperature.year_2016
+    UNION
+    SELECT * FROM temperature.year_2017
+    UNION
+    SELECT * FROM temperature.year_2018
+    UNION
+    SELECT * FROM temperature.year_2019
+    UNION
+    SELECT * FROM temperature.year_2021
+    UNION
+    SELECT * FROM temperature.year_2022
+    UNION
+    SELECT * FROM temperature.year_2023
+),
+
+cte2 AS (
+    SELECT * FROM rain.year_2009
+    UNION
+    SELECT * FROM rain.year_2010
+    UNION
+    SELECT * FROM rain.year_2011
+    UNION
+    SELECT * FROM rain.year_2012
+    UNION
+    SELECT * FROM rain.year_2013
+    UNION
+    SELECT * FROM rain.year_2014
+    UNION
+    SELECT * FROM rain.year_2015
+    UNION
+    SELECT * FROM rain.year_2016
+    UNION
+    SELECT * FROM rain.year_2017
+    UNION
+    SELECT * FROM rain.year_2018
+    UNION
+    SELECT * FROM rain.year_2019
+    UNION
+    SELECT * FROM rain.year_2021
+    UNION
+    SELECT * FROM rain.year_2022
+    UNION
+    SELECT * FROM rain.year_2023
+),
+
+cte3 AS (
+    SELECT * FROM wind_speed.year_2009
+    UNION
+    SELECT * FROM wind_speed.year_2010
+    UNION
+    SELECT * FROM wind_speed.year_2011
+    UNION
+    SELECT * FROM wind_speed.year_2012
+    UNION
+    SELECT * FROM wind_speed.year_2013
+    UNION
+    SELECT * FROM wind_speed.year_2014
+    UNION
+    SELECT * FROM wind_speed.year_2015
+    UNION
+    SELECT * FROM wind_speed.year_2016
+    UNION
+    SELECT * FROM wind_speed.year_2017
+    UNION
+    SELECT * FROM wind_speed.year_2018
+    UNION
+    SELECT * FROM wind_speed.year_2019
+    UNION
+    SELECT * FROM wind_speed.year_2021
+    UNION
+    SELECT * FROM wind_speed.year_2022
+    UNION
+    SELECT * FROM wind_speed.year_2023
+),
+
+temperature_rain_windspeed_cte AS (
+    SELECT
+          cte1.id AS id
+        , cte1.weather_station AS weather_station
+        , cte1.date AS date
+        , EXTRACT(YEAR, cte1.date) AS year
+        , EXTRACT(MONTH, cte1.date) AS month
+        , cte1.temperature_min_max_var AS temperature_variance
+        , cte2.rain_mm AS rain_mm
+        , cte3.avg_wind_speed_mps AS average_wind_speed_mp
+    FROM cte1
+    LEFT JOIN cte2
+    ON cte1.id = cte2.id
+    LEFT JOIN cte3
+    ON cte1.id = cte3.id
+)
+
+SELECT TOP 10
+      weather_station, year, month
+    , ROUND(AVG(temperature_variance),2) AS average_monthly_temperature_variance
+    , ROUND(AVG(rain_mm),2) AS average_monthly_rainfall
+    , ROUND(AVG(average_wind_speed_mp),2) AS monthly_average_wind_speed_mps 
+FROM temperature_rain_windspeed_cte
+WHERE EXTRACT(YEAR, date) >= '2012'
+GROUP BY 1, 2, 3
+HAVING average_monthly_temperature_variance IS NOT null
+ORDER BY average_monthly_temperature_variance DESC
+;

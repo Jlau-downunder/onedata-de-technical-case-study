@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HALLS CREEK AIRPORT Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HALLS CREEK AIRPORT,28/10/2023,8.8,0.0, ,37.8,16.9,30,4,3.31,28.37
+HALLS CREEK AIRPORT,29/10/2023,6.8,0.0, ,38.1,14.7,26,4,1.79,28.32
+HALLS CREEK AIRPORT,30/10/2023,6.7,0.0, ,38.7,16.0,41,10,1.63,28.41
+HALLS CREEK AIRPORT,31/10/2023,8.0,0.0, ,38.0,23.4,51,24,2.86,28.44
+HALLS CREEK AIRPORT,01/11/2023,7.3,0.0, ,39.0,24.5,58,21,1.99,28.15
+HALLS CREEK AIRPORT,02/11/2023,7.9,0.0, ,39.8,23.8,55,18,2.63,26.86
+HALLS CREEK AIRPORT,03/11/2023,8.6,0.0, ,38.4,24.9,49,20,3.50,26.90
+Totals:,,54.1,0, ,,,,,, 

@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MOUNT MAGNET AERO Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MOUNT MAGNET AERO,28/10/2023,9.0,0.0, ,33.0,19.4,29,14,4.57,27.93
+MOUNT MAGNET AERO,29/10/2023,9.0,0.0, ,32.0,16.7,29,8,4.61,28.29
+MOUNT MAGNET AERO,30/10/2023,8.9,0.0, ,31.3,16.5,45,15,5.29,28.04
+MOUNT MAGNET AERO,31/10/2023,10.5,0.0, ,32.8,17.3,30,13,6.58,28.42
+MOUNT MAGNET AERO,01/11/2023,10.1,0.0, ,34.7,20.9,29,9,5.11,28.63
+MOUNT MAGNET AERO,02/11/2023,9.8,0.0, ,35.7,18.8,27,9,4.58,28.74
+MOUNT MAGNET AERO,03/11/2023,12.4,0.0, ,37.2,23.3,24,9,6.93,28.46
+Totals:,,69.7,0, ,,,,,, 

@@ -1,0 +1,194 @@
+-- Create my year reference list for my stored procedure --
+CREATE OR REPLACE TABLE public.year_reference (year INTEGER);
+INSERT INTO year_reference VALUES
+   (2009)
+  ,(2010)
+  ,(2011)
+  ,(2012)
+  ,(2013)
+  ,(2014)
+  ,(2015)
+  ,(2016)
+  ,(2017)
+  ,(2018)
+  ,(2019)
+  ,(2020)
+  ,(2021)
+  ,(2022)
+  ,(2023)
+;
+
+
+-- Store procedure to loop through yearReference table to create tables per schema weather environment category: evapo_transpiration
+CREATE OR REPLACE PROCEDURE evapo_transpiration_create_yearly_tables()
+  RETURNS STRING
+  LANGUAGE JAVASCRIPT
+  EXECUTE AS CALLER
+  AS
+  $$
+  var sql_qry = "SELECT year FROM public.year_reference"
+  var yearReference = snowflake.execute({sqlText: sql_qry});
+  var result = "";
+  while (yearReference.next()) {
+    var year = yearReference.getColumnValue(1);
+    var db_schema = "evapo_transpiration"
+    var tableName = "year_" + year;
+    var createTableSQL = "CREATE OR REPLACE TABLE "+ db_schema +"."+ tableName + " (id VARCHAR(255) PRIMARY KEY, weather_station VARCHAR(255), date DATE, evapo_transpiration_mm FLOAT)";
+    result += "Creating table for year " + year + "\\n";
+    result += createTableSQL + "\\n";
+    snowflake.execute({sqlText: createTableSQL});
+  }
+  return result;
+  $$;
+
+CALL evapo_transpiration_create_yearly_tables();
+
+
+-- Store procedure to loop through yearReference table to create tables per schema weather environment category: humidity
+CREATE OR REPLACE PROCEDURE humidity_create_yearly_tables()
+  RETURNS STRING
+  LANGUAGE JAVASCRIPT
+  EXECUTE AS CALLER
+  AS
+  $$
+  var sql_qry = "SELECT year FROM public.year_reference"
+  var yearReference = snowflake.execute({sqlText: sql_qry});
+  var result = "";
+  while (yearReference.next()) {
+    var year = yearReference.getColumnValue(1);
+    var db_schema = "humidity"
+    var tableName = "year_" + year;
+    var createTableSQL = "CREATE OR REPLACE TABLE "+ db_schema +"."+ tableName + " (id VARCHAR(255) PRIMARY KEY, weather_station VARCHAR(255), date DATE, humidity_min INT, humidity_max INT)";
+    result += "Creating table for year " + year + "\\n";
+    result += createTableSQL + "\\n";
+    snowflake.execute({sqlText: createTableSQL});
+  }
+  return result;
+  $$;
+
+CALL humidity_create_yearly_tables();
+
+
+-- Store procedure to loop through yearReference table to create tables per schema weather environment category: rain
+CREATE OR REPLACE PROCEDURE rain_create_yearly_tables()
+  RETURNS STRING
+  LANGUAGE JAVASCRIPT
+  EXECUTE AS CALLER
+  AS
+  $$
+  var sql_qry = "SELECT year FROM public.year_reference"
+  var yearReference = snowflake.execute({sqlText: sql_qry});
+  var result = "";
+  while (yearReference.next()) {
+    var year = yearReference.getColumnValue(1);
+    var db_schema = "rain"
+    var tableName = "year_" + year;
+    var createTableSQL = "CREATE OR REPLACE TABLE "+ db_schema +"."+ tableName + " (id VARCHAR(255) PRIMARY KEY, weather_station VARCHAR(255), date DATE, rain_mm FLOAT)";
+    result += "Creating table for year " + year + "\\n";
+    result += createTableSQL + "\\n";
+    snowflake.execute({sqlText: createTableSQL});
+  }
+  return result;
+  $$;
+
+CALL rain_create_yearly_tables();
+
+
+-- Store procedure to loop through yearReference table to create tables per schema weather environment category: Pan-evaporation
+CREATE OR REPLACE PROCEDURE pan_evaporation_create_yearly_tables()
+  RETURNS STRING
+  LANGUAGE JAVASCRIPT
+  EXECUTE AS CALLER
+  AS
+  $$
+  var sql_qry = "SELECT year FROM public.year_reference"
+  var yearReference = snowflake.execute({sqlText: sql_qry});
+  var result = "";
+  while (yearReference.next()) {
+    var year = yearReference.getColumnValue(1);
+    var db_schema = "pan_evaporation"
+    var tableName = "year_" + year;
+    var createTableSQL = "CREATE OR REPLACE TABLE "+ db_schema +"."+ tableName + " (id VARCHAR(255) PRIMARY KEY, weather_station VARCHAR(255), date DATE, pan_evaporation_mm FLOAT)";
+    result += "Creating table for year " + year + "\\n";
+    result += createTableSQL + "\\n";
+    snowflake.execute({sqlText: createTableSQL});
+  }
+  return result;
+  $$;
+
+CALL pan_evaporation_create_yearly_tables();
+
+
+-- Store procedure to loop through yearReference table to create tables per schema weather environment category: wind speed
+CREATE OR REPLACE PROCEDURE wind_speed_create_yearly_tables()
+  RETURNS STRING
+  LANGUAGE JAVASCRIPT
+  EXECUTE AS CALLER
+  AS
+  $$
+  var sql_qry = "SELECT year FROM public.year_reference"
+  var yearReference = snowflake.execute({sqlText: sql_qry});
+  var result = "";
+  while (yearReference.next()) {
+    var year = yearReference.getColumnValue(1);
+    var db_schema = "wind_speed"
+    var tableName = "year_" + year;
+    var createTableSQL = "CREATE OR REPLACE TABLE "+ db_schema +"."+ tableName + " (id VARCHAR(255) PRIMARY KEY, weather_station VARCHAR(255), date DATE, avg_wind_speed_mps FLOAT)";
+    result += "Creating table for year " + year + "\\n";
+    result += createTableSQL + "\\n";
+    snowflake.execute({sqlText: createTableSQL});
+  }
+  return result;
+  $$;
+
+CALL wind_speed_create_yearly_tables();
+
+
+-- Store procedure to loop through yearReference table to create tables per schema weather environment category: solar radiation
+CREATE OR REPLACE PROCEDURE solar_radiation_create_yearly_tables()
+  RETURNS STRING
+  LANGUAGE JAVASCRIPT
+  EXECUTE AS CALLER
+  AS
+  $$
+  var sql_qry = "SELECT year FROM public.year_reference"
+  var yearReference = snowflake.execute({sqlText: sql_qry});
+  var result = "";
+  while (yearReference.next()) {
+    var year = yearReference.getColumnValue(1);
+    var db_schema = "solar_radiation"
+    var tableName = "year_" + year;
+    var createTableSQL = "CREATE OR REPLACE TABLE "+ db_schema +"."+ tableName + " (id VARCHAR(255) PRIMARY KEY, weather_station VARCHAR(255), date DATE, solar_radiation FLOAT)";
+    result += "Creating table for year " + year + "\\n";
+    result += createTableSQL + "\\n";
+    snowflake.execute({sqlText: createTableSQL});
+  }
+  return result;
+  $$;
+
+CALL solar_radiation_create_yearly_tables();
+
+
+-- Store procedure to loop through yearReference table to create tables per schema weather environment category: temperature
+CREATE OR REPLACE PROCEDURE temperature_create_yearly_tables()
+  RETURNS STRING
+  LANGUAGE JAVASCRIPT
+  EXECUTE AS CALLER
+  AS
+  $$
+  var sql_qry = "SELECT year FROM public.year_reference"
+  var yearReference = snowflake.execute({sqlText: sql_qry});
+  var result = "";
+  while (yearReference.next()) {
+    var year = yearReference.getColumnValue(1);
+    var db_schema = "temperature"
+    var tableName = "year_" + year;
+    var createTableSQL = "CREATE OR REPLACE TABLE "+ db_schema +"."+ tableName + " (id VARCHAR(255) PRIMARY KEY, weather_station VARCHAR(255), date DATE, temperature_max FLOAT, temperature_min FLOAT, temperature_min_max_var FLOAT)";
+    result += "Creating table for year " + year + "\\n";
+    result += createTableSQL + "\\n";
+    snowflake.execute({sqlText: createTableSQL});
+  }
+  return result;
+  $$;
+
+CALL temperature_create_yearly_tables();

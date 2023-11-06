@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARBLE BAR Western Australia for January 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 February 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARBLE BAR,01/01/2023,8.2,0.0, ,44.4,26.2,72,14,2.22,26.91
+MARBLE BAR,02/01/2023,9.5,0.0, ,45.1,29.5,90,12,3.52,26.29
+MARBLE BAR,03/01/2023,9.2,1.8, ,43.8,26.1,91,16,3.51,26.13
+MARBLE BAR,04/01/2023,10.7,0.0, ,41.9,29.3,68,15,5.03,26.92
+MARBLE BAR,05/01/2023,13.0,0.0, ,41.8,30.6,45,9,6.34,28.96
+MARBLE BAR,06/01/2023,9.7,0.0, ,42.3,26.9,57,9,3.25,30.10
+MARBLE BAR,07/01/2023,9.4,0.0, ,43.2,26.2,75,11,3.02,29.81
+MARBLE BAR,08/01/2023,9.3,0.0, ,41.1,26.8,79,28,3.75,30.04
+MARBLE BAR,09/01/2023,8.8,0.2, ,40.7,26.6,100,23,3.95,27.57
+MARBLE BAR,10/01/2023,8.3,51.2, ,39.9,22.9,78,23,2.65,30.37
+MARBLE BAR,11/01/2023,8.0,3.8, ,41.4,24.5,88,16,2.02,30.17
+MARBLE BAR,12/01/2023,10.0,0.0, ,45.0,25.3,71,5,3.14,30.29
+MARBLE BAR,13/01/2023,9.2,0.0, ,46.1,24.7,82,4,2.45,30.18
+MARBLE BAR,14/01/2023,9.8,0.0, ,42.4,26.2,82,20,4.39,26.88
+MARBLE BAR,15/01/2023,8.7,0.8, ,39.5,24.6,60,27,3.38,28.39
+MARBLE BAR,16/01/2023, ,0.2, , ,25.4,78,21,3.01,29.80
+MARBLE BAR,17/01/2023, , , , , ,73,25,2.95,27.63
+MARBLE BAR,18/01/2023, ,0.0, , , ,100,57,1.21,19.18
+MARBLE BAR,19/01/2023, ,8.0, ,29.9, ,100,64,1.28,12.50
+MARBLE BAR,20/01/2023, ,1.8, , ,22.7,90,39,2.29,23.67
+MARBLE BAR,21/01/2023, ,1.4, ,35.2, ,100,40,2.33,25.42
+MARBLE BAR,22/01/2023,5.8,0.4, ,35.4,26.2,92,41,1.66,23.79
+MARBLE BAR,23/01/2023,7.8,0.2, ,38.3,26.8,100,33,3.25,28.13
+MARBLE BAR,24/01/2023,6.5,64.8, ,33.9,21.9,100,46,3.57,26.31
+MARBLE BAR,25/01/2023,4.8,0.0, ,37.3,26.3,84,31,1.66,15.86
+MARBLE BAR,26/01/2023,8.8,0.0, ,41.0,27.7,76,16,2.86,29.88
+MARBLE BAR,27/01/2023,6.0,0.0, ,37.0,27.4,100,44,3.56,20.07
+MARBLE BAR,28/01/2023,5.9,8.4, ,36.4,22.2,99,43,1.25,26.12
+MARBLE BAR,29/01/2023,5.6,0.2, ,36.0,26.8,96,45,1.38,23.41
+MARBLE BAR,30/01/2023,6.7,0.0, ,38.7,26.3,90,33,1.98,25.49
+MARBLE BAR,31/01/2023,7.7,0.4, ,39.8,25.2,86,15,2.10,29.59
+Totals:,,207.4,143.6, ,,,,,, 

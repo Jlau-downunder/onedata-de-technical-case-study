@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GERALDTON AIRPORT Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GERALDTON AIRPORT,28/10/2023,7.6,0.0, ,27.8,10.4,85,24,7.32,25.76
+GERALDTON AIRPORT,29/10/2023,5.6,0.0, ,23.2,13.3,80,48,7.88,25.50
+GERALDTON AIRPORT,30/10/2023,6.1,0.0, ,28.2,13.9,89,51,7.71,25.86
+GERALDTON AIRPORT,31/10/2023, ,0.0, , ,10.9,100,16,7.41,25.72
+GERALDTON AIRPORT,01/11/2023,9.2, , ,33.1,11.2,76,22,6.69,27.81
+GERALDTON AIRPORT,02/11/2023,9.7,0.0, ,35.5,10.7,83,14,5.58,27.79
+GERALDTON AIRPORT,03/11/2023,14.1,0.0, ,42.2,18.9,85,9,8.70,26.85
+Totals:,,52.3,0, ,,,,,, 

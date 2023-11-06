@@ -1,0 +1,240 @@
+-- rain union
+WITH union_cte (unique_id) AS (
+SELECT id FROM rain.year_2009
+UNION
+SELECT id FROM rain.year_2010
+UNION
+SELECT id FROM rain.year_2011
+UNION
+SELECT id FROM rain.year_2012
+UNION
+SELECT id FROM rain.year_2013
+UNION
+SELECT id FROM rain.year_2014
+UNION
+SELECT id FROM rain.year_2015
+UNION
+SELECT id FROM rain.year_2016
+UNION
+SELECT id FROM rain.year_2017
+UNION
+SELECT id FROM rain.year_2018
+UNION
+SELECT id FROM rain.year_2019
+UNION
+SELECT id FROM rain.year_2021
+UNION
+SELECT id FROM rain.year_2022
+UNION
+SELECT id FROM rain.year_2023)
+
+SELECT count(*)
+FROM union_cte;
+
+
+-- wind speed union
+WITH union_cte (unique_id) AS (
+SELECT id FROM wind_speed.year_2009
+UNION
+SELECT id FROM wind_speed.year_2010
+UNION
+SELECT id FROM wind_speed.year_2011
+UNION
+SELECT id FROM wind_speed.year_2012
+UNION
+SELECT id FROM wind_speed.year_2013
+UNION
+SELECT id FROM wind_speed.year_2014
+UNION
+SELECT id FROM wind_speed.year_2015
+UNION
+SELECT id FROM wind_speed.year_2016
+UNION
+SELECT id FROM wind_speed.year_2017
+UNION
+SELECT id FROM wind_speed.year_2018
+UNION
+SELECT id FROM wind_speed.year_2019
+UNION
+SELECT id FROM wind_speed.year_2021
+UNION
+SELECT id FROM wind_speed.year_2022
+UNION
+SELECT id FROM wind_speed.year_2023)
+
+SELECT count(*)
+FROM union_cte;
+
+--temperature union
+WITH union_cte (unique_id) AS (
+SELECT id FROM temperature.year_2009
+UNION
+SELECT id FROM temperature.year_2010
+UNION
+SELECT id FROM temperature.year_2011
+UNION
+SELECT id FROM temperature.year_2012
+UNION
+SELECT id FROM temperature.year_2013
+UNION
+SELECT id FROM temperature.year_2014
+UNION
+SELECT id FROM temperature.year_2015
+UNION
+SELECT id FROM temperature.year_2016
+UNION
+SELECT id FROM temperature.year_2017
+UNION
+SELECT id FROM temperature.year_2018
+UNION
+SELECT id FROM temperature.year_2019
+UNION
+SELECT id FROM temperature.year_2021
+UNION
+SELECT id FROM temperature.year_2022
+UNION
+SELECT id FROM temperature.year_2023)
+
+SELECT count(*)
+FROM union_cte;
+
+
+--evapo_transpiration union
+WITH union_cte (unique_id) AS (
+SELECT id FROM evapo_transpiration.year_2009
+UNION
+SELECT id FROM evapo_transpiration.year_2010
+UNION
+SELECT id FROM evapo_transpiration.year_2011
+UNION
+SELECT id FROM evapo_transpiration.year_2012
+UNION
+SELECT id FROM evapo_transpiration.year_2013
+UNION
+SELECT id FROM evapo_transpiration.year_2014
+UNION
+SELECT id FROM evapo_transpiration.year_2015
+UNION
+SELECT id FROM evapo_transpiration.year_2016
+UNION
+SELECT id FROM evapo_transpiration.year_2017
+UNION
+SELECT id FROM evapo_transpiration.year_2018
+UNION
+SELECT id FROM evapo_transpiration.year_2019
+UNION
+SELECT id FROM evapo_transpiration.year_2021
+UNION
+SELECT id FROM evapo_transpiration.year_2022
+UNION
+SELECT id FROM evapo_transpiration.year_2023)
+
+SELECT count(*)
+FROM union_cte;
+
+
+--humidity union
+WITH union_cte (unique_id) AS (
+SELECT id FROM humidity.year_2009
+UNION
+SELECT id FROM humidity.year_2010
+UNION
+SELECT id FROM humidity.year_2011
+UNION
+SELECT id FROM humidity.year_2012
+UNION
+SELECT id FROM humidity.year_2013
+UNION
+SELECT id FROM humidity.year_2014
+UNION
+SELECT id FROM humidity.year_2015
+UNION
+SELECT id FROM humidity.year_2016
+UNION
+SELECT id FROM humidity.year_2017
+UNION
+SELECT id FROM humidity.year_2018
+UNION
+SELECT id FROM humidity.year_2019
+UNION
+SELECT id FROM humidity.year_2021
+UNION
+SELECT id FROM humidity.year_2022
+UNION
+SELECT id FROM humidity.year_2023)
+
+SELECT count(*)
+FROM union_cte;
+
+
+--pan_evaporation union
+WITH union_cte (unique_id) AS (
+SELECT id FROM pan_evaporation.year_2009
+UNION
+SELECT id FROM pan_evaporation.year_2010
+UNION
+SELECT id FROM pan_evaporation.year_2011
+UNION
+SELECT id FROM pan_evaporation.year_2012
+UNION
+SELECT id FROM pan_evaporation.year_2013
+UNION
+SELECT id FROM pan_evaporation.year_2014
+UNION
+SELECT id FROM pan_evaporation.year_2015
+UNION
+SELECT id FROM pan_evaporation.year_2016
+UNION
+SELECT id FROM pan_evaporation.year_2017
+UNION
+SELECT id FROM pan_evaporation.year_2018
+UNION
+SELECT id FROM pan_evaporation.year_2019
+UNION
+SELECT id FROM pan_evaporation.year_2021
+UNION
+SELECT id FROM pan_evaporation.year_2022
+UNION
+SELECT id FROM pan_evaporation.year_2023)
+
+SELECT count(*)
+FROM union_cte;
+
+--solar_radiation union
+WITH union_cte (unique_id) AS (
+SELECT id FROM solar_radiation.year_2009
+UNION
+SELECT id FROM solar_radiation.year_2010
+UNION
+SELECT id FROM solar_radiation.year_2011
+UNION
+SELECT id FROM solar_radiation.year_2012
+UNION
+SELECT id FROM solar_radiation.year_2013
+UNION
+SELECT id FROM solar_radiation.year_2014
+UNION
+SELECT id FROM solar_radiation.year_2015
+UNION
+SELECT id FROM solar_radiation.year_2016
+UNION
+SELECT id FROM solar_radiation.year_2017
+UNION
+SELECT id FROM solar_radiation.year_2018
+UNION
+SELECT id FROM solar_radiation.year_2019
+UNION
+SELECT id FROM solar_radiation.year_2021
+UNION
+SELECT id FROM solar_radiation.year_2022
+UNION
+SELECT id FROM solar_radiation.year_2023)
+
+SELECT count(*)
+FROM union_cte;
+
+
+
+SELECT COUNT(*) FROM source.bom_table_stage;
+
+SELECT COUNT(*) FROM source.bom_cleaned;

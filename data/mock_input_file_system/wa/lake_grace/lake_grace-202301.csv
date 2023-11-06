@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LAKE GRACE Western Australia for January 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 February 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LAKE GRACE,01/01/2023,7.0,0.0, ,28.0,11.4,85,27,4.20,30.33
+LAKE GRACE,02/01/2023,7.6,0.0, ,28.4,9.7,83,24,5.07,30.95
+LAKE GRACE,03/01/2023,7.9,0.0, ,28.7,14.9,73,31,6.02,30.53
+LAKE GRACE,04/01/2023,9.3,0.0, ,31.6,13.2,80,16,6.29,30.51
+LAKE GRACE,05/01/2023,9.9,0.0, ,33.8,13.5,81,9,5.83,30.37
+LAKE GRACE,06/01/2023,10.6,0.0, ,36.7,17.9,66,10,5.99,26.06
+LAKE GRACE,07/01/2023,6.7,0.0, ,25.9,14.2,65,29,4.80,26.49
+LAKE GRACE,08/01/2023,7.3,0.0, ,29.7,10.6,81,24,4.02,30.27
+LAKE GRACE,09/01/2023,9.2,0.0, ,34.7,12.7,89,21,5.48,30.35
+LAKE GRACE,10/01/2023,9.8,1.0, ,39.8,17.8,87,11,4.92,23.87
+LAKE GRACE,11/01/2023,6.1,0.2, ,28.8,18.1,80,32,4.00,21.80
+LAKE GRACE,12/01/2023,7.6,0.0, ,32.8,13.1,90,16,3.19,30.57
+LAKE GRACE,13/01/2023,9.2,0.0, ,35.0,13.5,89,15,4.76,30.64
+LAKE GRACE,14/01/2023,7.3,0.0, ,24.3,13.9,67,29,6.89,29.88
+LAKE GRACE,15/01/2023,7.7,0.0, ,32.2,11.4,68,22,3.92,27.85
+LAKE GRACE,16/01/2023,7.2,0.0, ,27.6,15.9,85,24,5.28,28.15
+LAKE GRACE,17/01/2023,6.6,0.0, ,25.0,9.4,77,25,4.65,29.77
+LAKE GRACE,18/01/2023,7.4,0.0, ,27.8,9.8,79,25,5.57,28.98
+LAKE GRACE,19/01/2023,8.5,0.0, ,30.4,13.2,76,20,5.87,29.46
+LAKE GRACE,20/01/2023,8.3,0.0, ,33.1,13.9,83,21,4.96,28.02
+LAKE GRACE,21/01/2023,8.5,0.0, ,33.9,16.8,64,19,5.00,24.09
+LAKE GRACE,22/01/2023,7.5,0.0, ,29.6,20.1,65,28,6.30,19.72
+LAKE GRACE,23/01/2023,9.6,0.2, ,38.2,15.0,72,11,4.18,29.03
+LAKE GRACE,24/01/2023,10.3,0.0, ,37.6,18.0,73,16,5.56,29.07
+LAKE GRACE,25/01/2023,7.1,0.0, ,28.0,16.0,80,29,5.44,27.09
+LAKE GRACE,26/01/2023,7.9,0.0, ,33.8,14.9,80,17,3.74,27.82
+LAKE GRACE,27/01/2023,6.7,0.0, ,28.9,15.9,82,34,4.77,26.04
+LAKE GRACE,28/01/2023,6.8,0.0, ,28.3,9.9,80,19,3.69,28.55
+LAKE GRACE,29/01/2023,7.6,0.0, ,32.2,12.9,75,20,4.12,26.60
+LAKE GRACE,30/01/2023,8.2,0.0, ,38.7,16.1,78,15,3.72,22.44
+LAKE GRACE,31/01/2023,7.3,4.2, ,29.7,15.6,89,33,5.92,28.14
+Totals:,,248.7,5.6, ,,,,,, 

@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WARBURTON AIRFIELD Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WARBURTON AIRFIELD,28/10/2023,9.3,0.0, ,34.5,17.2,55,11,4.89,28.26
+WARBURTON AIRFIELD,29/10/2023,11.2,0.0, ,38.8,21.7,30,5,5.31,28.48
+WARBURTON AIRFIELD,30/10/2023,10.0,0.0, ,34.9,22.0,29,12,5.21,26.72
+WARBURTON AIRFIELD,31/10/2023,10.6,0.0, ,31.6,18.0,39,17,8.14,27.61
+WARBURTON AIRFIELD,01/11/2023,9.5,0.0, ,35.8,17.7,39,14,4.82,26.33
+WARBURTON AIRFIELD,02/11/2023,9.2,0.0, ,36.0,17.6,32,12,4.08,28.89
+WARBURTON AIRFIELD,03/11/2023,9.7,0.0, ,35.4,19.8,43,12,4.85,28.95
+Totals:,,69.5,0, ,,,,,, 

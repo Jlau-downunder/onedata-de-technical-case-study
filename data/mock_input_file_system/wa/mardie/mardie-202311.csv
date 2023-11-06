@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MARDIE Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MARDIE,28/10/2023,7.6,0.0, ,40.0,21.0,87,11,2.30,27.65
+MARDIE,29/10/2023,6.3,0.0, ,35.1,23.2,90,38,2.26,25.89
+MARDIE,30/10/2023,9.0,0.0, ,38.7,20.5,88,11,3.96,27.66
+MARDIE,31/10/2023, ,0.0, , ,18.2,83,27,3.60,28.64
+MARDIE,01/11/2023, , , , , ,87,43,3.39,28.72
+MARDIE,02/11/2023, , , , , ,89,36,3.10,28.77
+MARDIE,03/11/2023, , , ,35.3, ,92,16,3.40,20.10
+Totals:,,22.9,0, ,,,,,, 

@@ -1,0 +1,21 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for EAST SALE AIRPORT Victoria for November 2023,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 02 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+EAST SALE AIRPORT,26/10/2023,3.7,0.6, ,17.6,5.4,88,43,5.45,17.68
+EAST SALE AIRPORT,27/10/2023,3.8,0.2, ,17.5,3.8,92,49,5.05,25.17
+EAST SALE AIRPORT,28/10/2023,4.0,0.0, ,22.2,3.1,98,31,2.57,20.58
+EAST SALE AIRPORT,29/10/2023,3.8,0.0, ,20.6,7.1,97,65,3.72,26.07
+EAST SALE AIRPORT,30/10/2023,4.8,1.2, ,24.5,10.1,98,29,3.80,20.34
+EAST SALE AIRPORT,31/10/2023,3.7,8.0, ,16.6,7.5,89,53,7.85,21.77
+EAST SALE AIRPORT,01/11/2023, ,0.0, , ,8.9,92,59,3.85,12.27
+Totals:,,23.8,10, ,,,,,, 

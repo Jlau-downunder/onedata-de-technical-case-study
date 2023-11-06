@@ -1,0 +1,74 @@
+INSERT INTO rain.year_2009 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2009;
+
+INSERT INTO rain.year_2010 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2010;
+
+INSERT INTO rain.year_2011 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2011;
+
+INSERT INTO rain.year_2012 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2012;
+
+INSERT INTO rain.year_2013 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2013;
+
+INSERT INTO rain.year_2014 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2014;
+
+INSERT INTO rain.year_2015 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2015;
+
+INSERT INTO rain.year_2016 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2016;
+
+INSERT INTO rain.year_2017 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2017;
+
+INSERT INTO rain.year_2018 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2018;
+
+INSERT INTO rain.year_2019 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2019;
+
+INSERT INTO rain.year_2020 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2020;
+
+INSERT INTO rain.year_2021 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2021;
+
+INSERT INTO rain.year_2022 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2022;
+
+INSERT INTO rain.year_2023 (id, date, rain_mm, weather_station)
+SELECT CONCAT(weather_station, date) AS id, date, rain_mm, weather_station
+FROM source.bom_cleaned
+WHERE EXTRACT(YEAR,date) = 2023;

@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DWELLINGUP Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DWELLINGUP,28/10/2023,5.3,0.0, ,22.6,6.2,86,36,4.81,27.41
+DWELLINGUP,29/10/2023,3.4,0.0, ,21.2,7.5,89,58,3.74,17.53
+DWELLINGUP,30/10/2023,5.6,0.0, ,23.0,5.6,90,26,4.42,27.71
+DWELLINGUP,31/10/2023,5.9,0.0, ,25.3,8.0,85,29,4.61,25.71
+DWELLINGUP,01/11/2023,7.3,0.0, ,29.3,10.3,88,21,4.89,28.06
+DWELLINGUP,02/11/2023,8.1,0.0, ,31.2,12.2,85,22,5.84,27.87
+DWELLINGUP,03/11/2023,8.5,0.0, ,32.2,12.9,73,23,6.15,25.81
+Totals:,,44.1,0, ,,,,,, 

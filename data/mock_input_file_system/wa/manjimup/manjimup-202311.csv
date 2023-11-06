@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for MANJIMUP Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+MANJIMUP,28/10/2023,4.3,0.0, ,20.3,4.2,95,38,2.79,26.24
+MANJIMUP,29/10/2023,3.8,2.0, ,20.0,10.7,99,49,3.94,21.26
+MANJIMUP,30/10/2023,2.9,0.8, ,16.6,9.7,92,47,3.77,13.03
+MANJIMUP,31/10/2023,4.9,0.0, ,23.4,6.6,99,33,3.30,26.15
+MANJIMUP,01/11/2023,5.8,0.0, ,26.8,9.5,99,32,3.83,27.35
+MANJIMUP,02/11/2023,5.7,0.0, ,26.6,11.2,96,37,4.19,26.80
+MANJIMUP,03/11/2023,6.3,0.0, ,28.2,10.4,89,28,3.95,27.16
+Totals:,,33.7,2.8, ,,,,,, 

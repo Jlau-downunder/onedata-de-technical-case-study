@@ -1,0 +1,19 @@
+-- OneData BOM Snowflake DB DDL snowsight executable--
+-
+--stand up your database
+CREATE DATABASE onedata_bom_case_study;
+
+-- stand up your file stage
+CREATE STAGE source.bom_file_stage;
+
+-- stand up your database schemas
+CREATE SCHEMA source;
+CREATE SCHEMA evapo_transpiration;
+CREATE SCHEMA rain;
+CREATE SCHEMA pan_evaporation;
+CREATE SCHEMA temperature;
+CREATE SCHEMA humidity;
+CREATE SCHEMA wind_speed;
+CREATE SCHEMA solar_radiation;
+
+SHOW SCHEMAS IN DATABASE onedata_bom_case_study;

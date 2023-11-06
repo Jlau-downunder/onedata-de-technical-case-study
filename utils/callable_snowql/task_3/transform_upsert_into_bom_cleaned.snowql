@@ -1,0 +1,57 @@
+MERGE INTO SOURCE.BOM_CLEANED AS target
+USING (
+    SELECT
+        NULLIF(LOWER(weather_station), ' ')::VARCHAR(255) AS weather_station
+        , TRY_CAST(TO_DATE(NULLIF(date, ''), 'DD/MM/YYYY') AS DATE) AS date
+        , NULLIF(evapo_transpiration_mm, ' ')::FLOAT AS evapo_transpiration_mm
+        , NULLIF(rain_mm, ' ')::FLOAT AS rain_mm
+        , NULLIF(pan_evaporation_mm, ' ')::FLOAT AS pan_evaporation_mm
+        , NULLIF(temperature_max, ' ')::FLOAT AS temperature_max
+        , NULLIF(temperature_min, ' ')::FLOAT AS temperature_min
+        , NULLIF(humiditiy_min, ' ')::FLOAT AS humidity_min
+        , NULLIF(humidity_max, ' ')::FLOAT AS humidity_max
+        , NULLIF(avg_wind_speed_mps, ' ')::FLOAT AS avg_wind_speed_mps
+        , NULLIF(solar_radiation, ' ')::FLOAT AS solar_radiation
+    FROM BOM_TABLE_STAGE
+) AS source
+ON target.weather_station = source.weather_station AND target.date = source.date
+WHEN MATCHED THEN
+    UPDATE SET
+          target.evapo_transpiration_mm = source.evapo_transpiration_mm
+        , target.rain_mm = source.rain_mm
+        , target.pan_evaporation_mm = source.pan_evaporation_mm
+        , target.temperature_max = source.temperature_max
+        , target.temperature_min = source.temperature_min
+        , target.humidity_min = source.humidity_min
+        , target.humidity_max = source.humidity_max
+        , target.avg_wind_speed_mps = source.avg_wind_speed_mps
+        , target.solar_radiation = source.solar_radiation
+        , target.insert_timestamp = CURRENT_TIMESTAMP()
+WHEN NOT MATCHED THEN
+    INSERT (
+          weather_station
+        , date
+        , evapo_transpiration_mm
+        , rain_mm
+        , pan_evaporation_mm
+        , temperature_max
+        , temperature_min
+        , humidity_min
+        , humidity_max
+        , avg_wind_speed_mps
+        , solar_radiation
+        , insert_timestamp
+    ) VALUES (
+          source.weather_station
+        , source.date
+        , source.evapo_transpiration_mm
+        , source.rain_mm
+        , source.pan_evaporation_mm
+        , source.temperature_max
+        , source.temperature_min
+        , source.humidity_min
+        , source.humidity_max
+        , source.avg_wind_speed_mps
+        , source.solar_radiation
+        , CURRENT_TIMESTAMP()
+    );

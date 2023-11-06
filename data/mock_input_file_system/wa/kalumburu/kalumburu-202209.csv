@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KALUMBURU Western Australia for September 2022,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 October 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KALUMBURU,01/09/2022,5.6,0.0, ,36.8,20.7,91,33,1.97,22.85
+KALUMBURU,02/09/2022,4.9,0.0, ,36.4,20.0,89,34,1.80,19.40
+KALUMBURU,03/09/2022,6.0,0.0, ,36.1,21.3,81,29,2.49,22.79
+KALUMBURU,04/09/2022,6.0,0.0, ,36.0,19.4,80,21,2.18,24.24
+KALUMBURU,05/09/2022,6.0,0.0, ,35.4,17.8,88,25,2.35,24.31
+KALUMBURU,06/09/2022,5.6,0.0, ,34.5,18.1,93,41,2.38,24.39
+KALUMBURU,07/09/2022,6.1,0.0, ,36.2,19.0,95,27,2.42,24.50
+KALUMBURU,08/09/2022,5.8,0.0, ,36.0,19.1,95,31,2.06,24.59
+KALUMBURU,09/09/2022,6.3,0.0, ,37.6,19.6,93,22,2.25,24.69
+KALUMBURU,10/09/2022,6.2,0.0, ,36.6,20.2,92,29,2.39,24.77
+KALUMBURU,11/09/2022,5.7,0.0, ,35.2,19.9,93,36,2.06,24.79
+KALUMBURU,12/09/2022,6.2,0.0, ,37.3,19.3,89,28,2.16,24.93
+KALUMBURU,13/09/2022, ,0.0, , ,22.0,90,24,2.44,24.32
+KALUMBURU,14/09/2022,5.8, , ,36.3,21.5,94,38,2.13,23.93
+KALUMBURU,15/09/2022,7.2,0.0, ,40.2,20.9,90,22,2.78,24.66
+KALUMBURU,16/09/2022,6.2,0.0, ,35.6,21.8,94,42,2.85,24.84
+KALUMBURU,17/09/2022,6.6,0.0, ,38.2,21.1,93,30,2.52,25.03
+KALUMBURU,18/09/2022,6.6,0.0, ,36.9,20.7,95,22,2.55,25.42
+KALUMBURU,19/09/2022,6.6,0.0, ,38.9,20.5,94,22,2.13,25.53
+KALUMBURU,20/09/2022,6.6,0.0, ,38.7,21.7,93,25,2.22,25.59
+KALUMBURU,21/09/2022, ,0.0, , ,21.8,91,24,2.55,25.68
+KALUMBURU,22/09/2022, , , ,36.6, ,87,37,2.65,25.41
+KALUMBURU,23/09/2022,6.7,0.0, ,38.1,24.2,92,35,2.75,25.02
+KALUMBURU,24/09/2022,6.7,0.0, ,37.9,23.2,83,29,2.52,24.84
+KALUMBURU,25/09/2022,6.6,0.0, ,36.9,22.6,90,43,2.88,26.08
+KALUMBURU,26/09/2022,7.1,0.0, ,38.4,21.8,94,26,2.80,26.15
+KALUMBURU,27/09/2022,6.4,0.0, ,35.0,22.9,95,45,3.09,26.15
+KALUMBURU,28/09/2022,6.5,0.0, ,37.5,22.6,94,32,2.48,25.15
+KALUMBURU,29/09/2022,4.9,0.0, ,34.5,24.3,90,46,2.24,18.54
+KALUMBURU,30/09/2022,4.0,1.4, ,33.3,24.8,92,57,2.35,14.79
+Totals:,,164.9,1.4, ,,,,,, 

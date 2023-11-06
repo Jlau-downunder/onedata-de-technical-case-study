@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PERTH METRO Western Australia for September 2023,,,,,,,,,,
+Issued at 22:30 GMT on Sunday 01 October 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PERTH METRO,01/09/2023,2.7,0.0, ,23.6,12.8,99,59,2.77,14.51
+PERTH METRO,02/09/2023,2.5,6.4, ,20.0,12.7,96,52,2.72,12.80
+PERTH METRO,03/09/2023,3.0,9.0, ,17.1,11.0,91,50,5.70,15.70
+PERTH METRO,04/09/2023,2.7,1.0, ,19.5,11.5,99,54,3.44,15.48
+PERTH METRO,05/09/2023,2.4,2.0, ,20.3,12.4,99,59,2.93,12.16
+PERTH METRO,06/09/2023,3.4,4.0, ,18.0,13.7,89,42,4.44,17.18
+PERTH METRO,07/09/2023,2.9,0.0, ,19.3,5.2,88,34,1.61,19.39
+PERTH METRO,08/09/2023,4.2,0.0, ,25.1,7.7,70,19,2.52,19.22
+PERTH METRO,09/09/2023,3.6,0.0, ,22.8,13.9,94,23,2.43,17.12
+PERTH METRO,10/09/2023,2.9,0.2, ,22.5,13.3,99,58,1.45,18.62
+PERTH METRO,11/09/2023,3.1,0.0, ,24.0,11.7,99,54,1.79,19.13
+PERTH METRO,12/09/2023,3.4, , ,24.4,13.6,99,47,2.13,18.97
+PERTH METRO,13/09/2023,2.2, , ,18.1,14.3,99,56,4.78,6.34
+PERTH METRO,14/09/2023,3.0,18.0, ,20.3,11.7,95,53,3.34,16.72
+PERTH METRO,15/09/2023,2.3,3.0, ,20.7,15.3,98,65,2.44,11.66
+PERTH METRO,16/09/2023,2.9,0.2, ,22.4,14.8,99,51,1.83,16.20
+PERTH METRO,17/09/2023,3.5,0.8, ,19.3,10.1,93,42,3.15,21.09
+PERTH METRO,18/09/2023,2.9,0.0, ,19.7,7.3,95,47,2.37,17.44
+PERTH METRO,19/09/2023,2.9,0.0, ,20.3,14.2,91,60,2.95,15.81
+PERTH METRO,20/09/2023,3.1,0.0, ,20.8,14.4,83,45,1.82,17.02
+PERTH METRO,21/09/2023,3.0,0.0, ,24.9,9.7,93,41,1.91,13.22
+PERTH METRO,22/09/2023,4.6,0.0, ,30.5,13.4,97,27,2.02,21.43
+PERTH METRO,23/09/2023,3.0,0.0, ,19.1,16.3,83,56,3.58,13.46
+PERTH METRO,24/09/2023,3.8,0.0, ,22.7,9.9,96,45,2.82,22.25
+PERTH METRO,25/09/2023,3.7,0.0, ,21.0,9.6,94,48,2.99,22.10
+PERTH METRO,26/09/2023,3.8,0.0, ,25.2,7.5,99,34,1.47,22.72
+PERTH METRO,27/09/2023,5.5,0.0, ,34.3,10.2,91,22,2.16,22.72
+PERTH METRO,28/09/2023,4.1,0.0, ,29.8,16.7,96,35,1.71,18.68
+PERTH METRO,29/09/2023,2.7,0.0, ,21.9,12.6,99,60,2.44,14.11
+PERTH METRO,30/09/2023,3.6,0.0, ,22.1,14.3,96,50,2.44,20.12
+Totals:,,97.4,44.6, ,,,,,, 

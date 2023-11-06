@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FITZROY CROSSING AERO Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FITZROY CROSSING AERO,28/10/2023,9.3, , ,41.2,20.6,34,5,3.24,28.43
+FITZROY CROSSING AERO,29/10/2023,8.4,0.0, ,41.6,16.5,47,5,2.59,27.98
+FITZROY CROSSING AERO,30/10/2023,9.6,0.0, ,40.2,22.0,68,19,4.28,28.54
+FITZROY CROSSING AERO,31/10/2023,8.5,0.0, ,38.3,23.9,74,23,3.54,28.54
+FITZROY CROSSING AERO,01/11/2023,8.3,0.0, ,38.8,23.7,81,21,3.38,27.97
+FITZROY CROSSING AERO,02/11/2023,8.2,0.0, ,40.6,25.6,74,15,2.90,26.55
+FITZROY CROSSING AERO,03/11/2023,9.1,0.0, ,42.3,27.7,53,15,3.28,26.77
+Totals:,,61.4,0, ,,,,,, 

@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PERTH METRO Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PERTH METRO,28/10/2023,5.7,0.0, ,23.9,11.8,71,31,3.64,27.75
+PERTH METRO,29/10/2023,3.8,0.0, ,21.7,9.9,84,53,2.47,21.23
+PERTH METRO,30/10/2023,5.5,0.0, ,22.8,11.9,70,33,3.50,28.02
+PERTH METRO,31/10/2023,6.3,0.0, ,26.5,13.0,69,25,3.81,26.82
+PERTH METRO,01/11/2023,5.9,0.0, ,28.5,11.1,90,28,2.67,28.34
+PERTH METRO,02/11/2023,7.2,0.0, ,33.4,16.4,71,17,2.87,28.00
+PERTH METRO,03/11/2023,8.3,0.0, ,34.6,16.9,58,17,3.88,27.47
+Totals:,,42.7,0, ,,,,,, 

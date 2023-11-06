@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BEDOUT ISLAND Western Australia for November 2022,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 December 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BEDOUT ISLAND,01/11/2022,12.3, , ,28.6,23.2,21,16,10.29,28.54
+BEDOUT ISLAND,02/11/2022,10.5, , ,30.5,21.9,22,14,6.66,28.71
+BEDOUT ISLAND,03/11/2022, , , , ,23.0,21,14,6.33,28.74
+BEDOUT ISLAND,04/11/2022, , , ,33.0, ,20,13,5.20,28.94
+BEDOUT ISLAND,05/11/2022, , , , ,24.5,20,14,6.75,29.01
+BEDOUT ISLAND,06/11/2022,11.7, , ,29.3,23.8,21,15,8.64,28.02
+BEDOUT ISLAND,07/11/2022,11.6, , ,27.3,23.4,21,17,10.21,24.11
+BEDOUT ISLAND,08/11/2022,12.2, , ,27.3,23.0,21,17,10.81,28.96
+BEDOUT ISLAND,09/11/2022,11.9, , ,28.3,23.0,22,16,9.71,29.07
+BEDOUT ISLAND,10/11/2022,12.3, , ,27.7,23.1,21,17,10.99,29.06
+BEDOUT ISLAND,11/11/2022,12.4, , ,28.2,22.9,22,17,10.77,29.18
+BEDOUT ISLAND,12/11/2022,11.2, , ,29.4,23.2,21,15,7.79,29.25
+BEDOUT ISLAND,13/11/2022, , , , ,23.6,21,16,5.31,29.24
+BEDOUT ISLAND,14/11/2022,9.3, , ,29.7,23.6,21,15,4.88,29.16
+BEDOUT ISLAND,15/11/2022,8.7, , ,30.7,24.7,19,14,5.71,9.82
+BEDOUT ISLAND,16/11/2022, , , , ,23.5,21,18,2.73,9.43
+BEDOUT ISLAND,17/11/2022, , , ,28.7, ,21,16,6.74,28.42
+BEDOUT ISLAND,18/11/2022,12.2, , ,27.7,23.3,21,17,10.59,29.44
+BEDOUT ISLAND,19/11/2022,10.3, , ,30.0,23.3,21,15,6.08,29.08
+BEDOUT ISLAND,20/11/2022,9.6, , ,32.4,24.5,20,13,5.26,21.36
+BEDOUT ISLAND,21/11/2022,11.1, , ,30.9,26.4,18,14,8.32,10.39
+BEDOUT ISLAND,22/11/2022,9.5, , ,30.3,24.4,95,15,10.83,25.24
+BEDOUT ISLAND,23/11/2022, , , , ,23.8,21,16,6.92,29.77
+BEDOUT ISLAND,24/11/2022, , , , , ,20,14,4.37,29.82
+BEDOUT ISLAND,25/11/2022, , , ,31.0, ,19,14,3.54,29.56
+BEDOUT ISLAND,26/11/2022,9.4, , ,31.2,25.7,18,14,4.30,29.51
+BEDOUT ISLAND,27/11/2022,10.0, , ,31.7,25.2,19,13,4.96,29.94
+BEDOUT ISLAND,28/11/2022, , , , ,25.4,19,14,5.56,29.76
+BEDOUT ISLAND,29/11/2022,11.0, , ,31.9,25.6,18,14,6.09,29.80
+BEDOUT ISLAND,30/11/2022,10.0, , ,31.2,25.0,19,14,5.06,30.08
+Totals:,,217.2, , ,,,,,, 

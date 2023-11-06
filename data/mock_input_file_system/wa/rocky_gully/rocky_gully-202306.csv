@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ROCKY GULLY Western Australia for June 2023,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 July 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ROCKY GULLY,01/06/2023,1.0,19.0, ,15.0,7.7,98,74,1.81,9.35
+ROCKY GULLY,02/06/2023,0.9,2.0, ,14.9,5.1,98,66,0.99,8.50
+ROCKY GULLY,03/06/2023,0.9,1.4, ,15.3,7.3,98,59,0.87,8.83
+ROCKY GULLY,04/06/2023,1.4,0.2, ,16.7,6.5,98,61,3.19,8.43
+ROCKY GULLY,05/06/2023,0.7,5.4, ,11.6,9.2,98,84,2.52,4.97
+ROCKY GULLY,06/06/2023,0.5,19.2, ,8.1,4.6,97,91,2.65,3.58
+ROCKY GULLY,07/06/2023,1.1,27.4, ,13.2,4.5,98,65,2.44,8.60
+ROCKY GULLY,08/06/2023,1.2,1.2, ,17.0,7.2,98,58,1.76,9.64
+ROCKY GULLY,09/06/2023,1.0,0.0, ,16.5,4.5,98,64,1.54,9.53
+ROCKY GULLY,10/06/2023,1.1,0.2, ,16.8,8.1,98,74,2.89,7.48
+ROCKY GULLY,11/06/2023,1.0,9.6, ,12.0,7.4,97,69,2.97,9.25
+ROCKY GULLY,12/06/2023,1.1,7.8, ,15.5,6.8,97,64,2.37,8.60
+ROCKY GULLY,13/06/2023,1.2,1.2, ,16.1,9.0,98,69,3.23,8.18
+ROCKY GULLY,14/06/2023,1.1,8.2, ,14.1,7.9,97,65,2.53,9.10
+ROCKY GULLY,15/06/2023,1.3,1.6, ,15.9,10.2,96,69,4.04,7.60
+ROCKY GULLY,16/06/2023,1.1,24.6, ,13.3,10.5,97,69,2.85,8.78
+ROCKY GULLY,17/06/2023,0.9,3.6, ,12.8,4.4,98,66,1.41,9.12
+ROCKY GULLY,18/06/2023,0.8,0.6, ,13.5,4.3,99,68,1.34,9.12
+ROCKY GULLY,19/06/2023,1.1,0.2, ,14.0,4.4,98,53,1.91,10.15
+ROCKY GULLY,20/06/2023,0.8,6.2, ,10.4,6.8,97,77,2.49,6.13
+ROCKY GULLY,21/06/2023,0.9,20.6, ,11.1,5.5,97,72,2.24,9.92
+ROCKY GULLY,22/06/2023,0.9,1.4, ,14.0,5.1,97,75,2.89,7.51
+ROCKY GULLY,23/06/2023,1.0,14.8, ,11.5,4.2,97,64,2.65,9.23
+ROCKY GULLY,24/06/2023,0.7,4.2, ,12.8,3.7,98,87,1.83,8.41
+ROCKY GULLY,25/06/2023,0.6,8.2, ,9.7,4.4,98,84,1.19,7.43
+ROCKY GULLY,26/06/2023,0.8,9.8, ,11.8,1.7,99,63,1.12,10.48
+ROCKY GULLY,27/06/2023,0.8,0.0, ,13.0,1.5,98,68,1.19,8.00
+ROCKY GULLY,28/06/2023,0.7,2.2, ,14.0,6.1,99,75,0.69,9.65
+ROCKY GULLY,29/06/2023,0.7,1.0, ,13.2,5.8,98,60,0.60,8.27
+ROCKY GULLY,30/06/2023,1.0,0.0, ,14.1,3.3,96,58,1.30,10.76
+Totals:,,28.3,201.8, ,,,,,, 

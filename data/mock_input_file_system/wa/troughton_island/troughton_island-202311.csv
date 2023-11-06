@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TROUGHTON ISLAND Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TROUGHTON ISLAND,28/10/2023,7.6,0.0, ,33.9,26.4,88,37,4.71,27.73
+TROUGHTON ISLAND,29/10/2023,6.3,0.0, ,32.1,26.8,87,65,3.49,27.72
+TROUGHTON ISLAND,30/10/2023,5.9,0.0, ,31.9,26.8,89,70,2.69,26.82
+TROUGHTON ISLAND,31/10/2023, ,0.0, , ,27.2,88,62,2.85,27.44
+TROUGHTON ISLAND,01/11/2023, , , , , ,100,19,5.23,12.05
+TROUGHTON ISLAND,02/11/2023, , , ,32.9, ,87,68,3.79,28.08
+TROUGHTON ISLAND,03/11/2023,6.5,0.0, ,33.5,27.8,91,70,4.64,28.16
+Totals:,,26.3,0, ,,,,,, 

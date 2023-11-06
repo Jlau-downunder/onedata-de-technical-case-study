@@ -1,0 +1,14 @@
+CREATE OR REPLACE TABLE SOURCE.BOM_CLEANED (
+      weather_station VARCHAR(255)
+    , date DATE
+    , evapo_transpiration_mm FLOAT
+    , rain_mm FLOAT
+    , pan_evaporation_mm FLOAT
+    , temperature_max FLOAT
+    , temperature_min FLOAT
+    , humidity_min FLOAT
+    , humidity_max FLOAT
+    , avg_wind_speed_mps FLOAT
+    , solar_radiation FLOAT
+    , insert_timestamp TIMESTAMP
+);

@@ -1,0 +1,21 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for FALLS CREEK Victoria for November 2023,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 02 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+FALLS CREEK,26/10/2023,2.1,0.2, ,4.8,-5.9,99,60,9.88,26.27
+FALLS CREEK,27/10/2023,2.7,0.4, ,8.2,-4.0,99,54,4.65,26.32
+FALLS CREEK,28/10/2023,2.4,0.2, ,7.2,-1.8,91,65,7.54,24.38
+FALLS CREEK,29/10/2023,4.5,0.0, ,12.9,3.6,68,38,10.40,26.49
+FALLS CREEK,30/10/2023,2.2,1.4, ,6.1,3.4,99,39,9.83,10.91
+FALLS CREEK,31/10/2023,2.9,1.2, ,7.6,-2.7,98,49,5.40,27.32
+FALLS CREEK,01/11/2023,3.1,0.2, ,11.5,-3.0,99,54,4.07,25.90
+Totals:,,19.9,3.6, ,,,,,, 

@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ESPERANCE AERO Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ESPERANCE AERO,28/10/2023,4.8,0.0, ,21.7,6.7,81,29,3.01,25.61
+ESPERANCE AERO,29/10/2023,4.4,0.0, ,21.7,9.9,85,47,5.33,19.71
+ESPERANCE AERO,30/10/2023,3.4,0.0, ,17.7,10.5,90,47,4.23,16.09
+ESPERANCE AERO,31/10/2023,4.0,1.2, ,20.9,8.7,95,51,4.40,22.02
+ESPERANCE AERO,01/11/2023,5.3,0.2, ,23.9,9.6,91,44,5.28,26.67
+ESPERANCE AERO,02/11/2023,4.5,0.0, ,22.0,9.5,96,50,5.20,24.36
+ESPERANCE AERO,03/11/2023,5.3,0.0, ,23.5,9.5,89,39,5.92,23.53
+Totals:,,31.7,1.4, ,,,,,, 

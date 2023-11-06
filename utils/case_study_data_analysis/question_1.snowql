@@ -1,0 +1,62 @@
+WITH date_grouped_data_cte
+(number_of_dates, the_date) AS (
+SELECT COUNT(date), date 
+FROM source.bom_cleaned
+GROUP BY DATE)
+
+SELECT * FROM date_grouped_data_cte
+WHERE number_of_dates > 1;
+
+
+WITH
+temperature_union_cte AS (
+    SELECT * FROM temperature.year_2009
+    UNION
+    SELECT * FROM temperature.year_2010
+    UNION
+    SELECT * FROM temperature.year_2011
+    UNION
+    SELECT * FROM temperature.year_2012
+    UNION
+    SELECT * FROM temperature.year_2013
+    UNION
+    SELECT * FROM temperature.year_2014
+    UNION
+    SELECT * FROM temperature.year_2015
+    UNION
+    SELECT * FROM temperature.year_2016
+    UNION
+    SELECT * FROM temperature.year_2017
+    UNION
+    SELECT * FROM temperature.year_2018
+    UNION
+    SELECT * FROM temperature.year_2019
+    UNION
+    SELECT * FROM temperature.year_2021
+    UNION
+    SELECT * FROM temperature.year_2022
+    UNION
+    SELECT * FROM temperature.year_2023
+),
+
+greater_35_days AS (
+    SELECT weather_station, date, temperature_max
+    FROM temperature_union_cte
+    WHERE weather_station IN ('moorabbin airport', 'perth airport')
+    AND EXTRACT(YEAR, date) >= '2014'
+    AND temperature_max > 35
+)
+
+SELECT 
+    CASE 
+        WHEN weather_station = 'moorabbin airport' THEN 'Bunnings Notting Hill'
+        WHEN weather_station = 'perth airport' THEN 'Kmart Belmont'
+    END AS store_location,
+        weather_station AS weather_station, 
+        EXTRACT(YEAR,date) AS year, 
+        COUNT(date) AS number_of_days, 
+        round(avg(temperature_max),2) as average_temperature
+    FROM greater_35_days
+    GROUP BY 2, 3
+    ORDER BY 2, 3 DESC
+;

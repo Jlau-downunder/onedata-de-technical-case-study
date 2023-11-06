@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for LEINSTER AERO Western Australia for February 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 March 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+LEINSTER AERO,01/02/2023, , , , , , , , ,28.58
+LEINSTER AERO,02/02/2023, , , , , , , , ,28.18
+LEINSTER AERO,03/02/2023, , , , , , , , ,29.31
+LEINSTER AERO,04/02/2023, , , , , , , , ,28.22
+LEINSTER AERO,05/02/2023, , , , , , , , ,28.98
+LEINSTER AERO,06/02/2023, , , , , , , , ,28.86
+LEINSTER AERO,07/02/2023, , , , , , , , ,28.47
+LEINSTER AERO,08/02/2023, , , , , , , , ,28.58
+LEINSTER AERO,09/02/2023, , , , , , , , ,25.57
+LEINSTER AERO,10/02/2023, , , ,42.0, ,38,10,5.04,25.03
+LEINSTER AERO,11/02/2023,10.3,0.0, ,41.2,27.7,36,10,4.24,27.53
+LEINSTER AERO,12/02/2023,10.5,0.0, ,40.7,27.0,36,14,4.59,27.73
+LEINSTER AERO,13/02/2023,11.0,0.0, ,40.8,26.0,38,14,5.12,27.88
+LEINSTER AERO,14/02/2023,11.1,0.0, ,41.8,26.6,37,9,5.08,25.48
+LEINSTER AERO,15/02/2023,10.0,0.0, ,39.9,23.7,23,8,4.09,27.97
+LEINSTER AERO,16/02/2023,9.3,0.0, ,40.1,21.4,27,6,3.49,27.81
+LEINSTER AERO,17/02/2023,9.3,0.0, ,41.5,24.0,29,7,3.35,27.62
+LEINSTER AERO,18/02/2023,11.0,0.0, ,43.1,27.0,60,10,5.01,26.49
+LEINSTER AERO,19/02/2023,9.6,7.4, ,42.3,25.6,70,11,3.92,27.02
+LEINSTER AERO,20/02/2023,11.8,0.0, ,42.7,27.0,47,10,5.89,24.38
+LEINSTER AERO,21/02/2023,10.3,0.0, ,41.5,28.3,42,15,4.60,26.55
+LEINSTER AERO,22/02/2023,9.1,0.0, ,41.7,27.8,69,16,4.48,21.20
+LEINSTER AERO,23/02/2023,2.8,3.8, ,27.4,22.8,100,52,4.07,6.15
+LEINSTER AERO,24/02/2023,4.6,40.4, ,27.3,18.2,99,55,4.75,19.79
+LEINSTER AERO,25/02/2023,7.1,0.2, ,30.7,18.3,70,29,4.21,26.52
+LEINSTER AERO,26/02/2023,7.8,0.0, ,33.7,17.4,47,19,3.77,26.27
+LEINSTER AERO,27/02/2023,8.4,0.0, ,36.9,22.2,48,17,3.88,25.58
+LEINSTER AERO,28/02/2023,10.0,0.0, ,37.0,25.3,38,22,5.66,25.75
+Totals:,,164,51.8, ,,,,,, 

@@ -1,0 +1,5 @@
+dbt-postgres
+dbt-airflow
+dbt-core
+click
+snowflake-connector-python

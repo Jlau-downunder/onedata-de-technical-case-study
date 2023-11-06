@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for COLLIE EAST Western Australia for September 2022,,,,,,,,,,
+Issued at 22:30 GMT on Saturday 01 October 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+COLLIE EAST,01/09/2022,2.5,0.0, ,19.8,0.9,100,43,1.73,17.81
+COLLIE EAST,02/09/2022,2.6,0.0, ,19.0,7.6,94,40,2.56,12.85
+COLLIE EAST,03/09/2022,2.0,0.2, ,14.7,11.0,82,57,3.52,7.73
+COLLIE EAST,04/09/2022,1.4,0.0, ,16.0,10.6,100,77,1.93,8.67
+COLLIE EAST,05/09/2022,2.1,5.6, ,17.0,10.1,100,51,1.02,14.44
+COLLIE EAST,06/09/2022,1.6,2.0, ,15.4,3.5,100,57,0.53,12.14
+COLLIE EAST,07/09/2022,2.2,2.4, ,18.6,2.3,100,47,1.16,16.02
+COLLIE EAST,08/09/2022,1.7,0.0, ,16.3,1.5,100,55,0.54,13.00
+COLLIE EAST,09/09/2022,2.3,0.0, ,20.4,6.5,100,45,0.72,17.12
+COLLIE EAST,10/09/2022,2.2,0.0, ,20.5,4.8,100,45,0.63,15.95
+COLLIE EAST,11/09/2022,2.8,0.0, ,22.1,4.6,100,36,1.02,19.38
+COLLIE EAST,12/09/2022,2.8,0.0, ,22.6,6.3,99,48,1.75,16.47
+COLLIE EAST,13/09/2022,1.9,23.2, ,15.2,9.9,97,70,3.36,12.08
+COLLIE EAST,14/09/2022,2.3,7.4, ,16.6,6.6,90,51,2.11,13.94
+COLLIE EAST,15/09/2022,2.1,1.2, ,17.3,7.6,98,60,1.50,13.81
+COLLIE EAST,16/09/2022,2.9,0.0, ,20.0,8.8,97,45,1.42,20.09
+COLLIE EAST,17/09/2022,1.6,0.0, ,17.4,6.1,100,67,0.94,9.27
+COLLIE EAST,18/09/2022,2.3,0.0, ,18.6,7.0,100,52,1.19,14.98
+COLLIE EAST,19/09/2022,2.3,14.6, ,16.3,9.6,100,63,1.64,15.76
+COLLIE EAST,20/09/2022,2.3,1.4, ,18.7,4.1,100,65,1.87,15.49
+COLLIE EAST,21/09/2022,2.8,0.0, ,19.1,8.7,99,51,2.71,16.40
+COLLIE EAST,22/09/2022,2.3,0.6, ,15.7,3.5,100,43,0.86,17.72
+COLLIE EAST,23/09/2022,2.5,0.0, ,17.9,1.7,99,50,1.81,17.18
+COLLIE EAST,24/09/2022,2.8,2.2, ,17.2,8.8,98,41,1.31,18.73
+COLLIE EAST,25/09/2022,2.0,0.0, ,18.2,1.4,99,55,0.93,13.85
+COLLIE EAST,26/09/2022,3.0,0.0, ,20.9,3.6,100,37,0.70,21.94
+COLLIE EAST,27/09/2022,3.1,0.0, ,22.9,5.8,100,42,0.93,20.98
+COLLIE EAST,28/09/2022,3.3,0.0, ,26.0,6.3,100,30,0.92,19.31
+COLLIE EAST,29/09/2022,4.3,0.0, ,26.1,10.1,99,27,2.06,22.46
+COLLIE EAST,30/09/2022,3.8,0.0, ,25.6,6.4,95,24,1.28,22.83
+Totals:,,73.8,60.8, ,,,,,, 

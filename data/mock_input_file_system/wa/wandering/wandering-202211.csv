@@ -1,0 +1,44 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for November 2022,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 01 December 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/11/2022,4.3,0.0, ,22.2,4.6,95,44,3.38,24.24
+WANDERING,02/11/2022,4.2,0.2, ,22.9,10.3,97,40,2.65,21.06
+WANDERING,03/11/2022,5.4,0.0, ,28.9,9.9,97,23,2.74,22.13
+WANDERING,04/11/2022,5.1,0.0, ,24.9,10.6,96,36,2.79,26.90
+WANDERING,05/11/2022,5.5,0.0, ,23.6,3.6,99,28,4.04,27.94
+WANDERING,06/11/2022,4.6,0.2, ,24.1,9.4,88,39,3.98,19.20
+WANDERING,07/11/2022, ,0.0, , ,8.3,95,41,4.56,24.29
+WANDERING,08/11/2022, , , , , ,100,60,3.42,8.53
+WANDERING,09/11/2022,4.2, , ,25.2,9.4,98,35,2.08,20.20
+WANDERING,10/11/2022,3.3,0.0, ,21.1,4.8,97,51,3.01,16.81
+WANDERING,11/11/2022,4.2,2.2, ,18.5,9.6,94,37,4.71,21.54
+WANDERING,12/11/2022,3.6,0.0, ,18.4,0.9,97,37,3.73,17.79
+WANDERING,13/11/2022,4.4,0.0, ,21.4,9.7,97,32,4.20,19.21
+WANDERING,14/11/2022,5.5,0.0, ,23.5,1.9,98,25,3.55,29.14
+WANDERING,15/11/2022,6.1,0.0, ,27.2,5.2,92,17,2.76,29.26
+WANDERING,16/11/2022,8.0,0.0, ,33.8,5.3,84,13,3.70,27.51
+WANDERING,17/11/2022,3.7,0.0, ,21.8,7.3,100,43,3.23,16.66
+WANDERING,18/11/2022,2.8,4.4, ,15.0,9.2,98,59,3.00,17.51
+WANDERING,19/11/2022,3.7,4.0, ,20.8,2.1,97,45,2.87,19.91
+WANDERING,20/11/2022,4.9,0.0, ,23.6,3.7,100,29,2.80,25.45
+WANDERING,21/11/2022,6.3,0.0, ,27.5,8.0,86,20,2.98,29.75
+WANDERING,22/11/2022,7.9,0.0, ,33.2,8.2,83,12,4.09,24.29
+WANDERING,23/11/2022,7.0,3.4, ,31.1,15.4,89,25,3.92,26.18
+WANDERING,24/11/2022,5.3,0.0, ,25.5,14.2,89,38,2.63,26.39
+WANDERING,25/11/2022,4.7,0.0, ,25.6,5.8,96,40,2.31,24.80
+WANDERING,26/11/2022,4.9,0.0, ,25.7,8.0,96,31,3.07,21.00
+WANDERING,27/11/2022,6.2,0.0, ,25.8,7.0,89,27,4.05,28.24
+WANDERING,28/11/2022,6.5,0.0, ,28.5,7.2,89,19,2.97,29.80
+WANDERING,29/11/2022,7.9,0.0, ,35.1,8.5,89,11,2.91,29.81
+WANDERING,30/11/2022,8.6,0.0, ,38.0,19.9,83,11,4.04,23.10
+Totals:,,148.8,14.4, ,,,,,, 

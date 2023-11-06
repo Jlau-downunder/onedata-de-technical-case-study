@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for SOUTHERN CROSS AIRFIELD Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+SOUTHERN CROSS AIRFIELD,28/10/2023,6.8,0.0, ,27.9,8.3,66,16,3.87,26.85
+SOUTHERN CROSS AIRFIELD,29/10/2023,7.0,0.0, ,26.3,9.9,67,17,4.84,26.87
+SOUTHERN CROSS AIRFIELD,30/10/2023,6.0,0.0, ,22.7,11.4,71,19,5.58,20.62
+SOUTHERN CROSS AIRFIELD,31/10/2023, ,0.0, , ,9.2,73,16,5.12,27.08
+SOUTHERN CROSS AIRFIELD,01/11/2023, , , , , ,53,11,3.39,27.92
+SOUTHERN CROSS AIRFIELD,02/11/2023, , , ,32.0, ,60,13,4.60,27.96
+SOUTHERN CROSS AIRFIELD,03/11/2023,8.9,0.0, ,31.6,15.9,52,13,5.26,27.60
+Totals:,,28.7,0, ,,,,,, 

@@ -1,0 +1,45 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for October 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,01/10/2023,3.0,0.4, ,19.8,3.7,99,56,5.24,14.46
+WANDERING,02/10/2023,3.2,6.0, ,15.2,9.2,91,45,3.69,19.72
+WANDERING,03/10/2023,3.1,0.8, ,18.1,2.4,98,49,2.56,20.80
+WANDERING,04/10/2023,3.6,0.0, ,22.6,2.2,99,44,1.98,22.65
+WANDERING,05/10/2023,4.3,0.0, ,25.3,3.0,98,33,2.20,23.82
+WANDERING,06/10/2023,5.2,0.0, ,31.2,6.6,97,18,2.00,23.90
+WANDERING,07/10/2023,6.0,0.0, ,33.6,5.6,95,16,2.36,24.11
+WANDERING,08/10/2023,5.0,0.0, ,27.7,8.4,95,29,2.51,24.14
+WANDERING,09/10/2023,4.1,0.0, ,27.6,7.3,99,40,1.68,21.62
+WANDERING,10/10/2023,3.9,0.0, ,21.8,9.4,95,41,3.08,20.62
+WANDERING,11/10/2023,3.9,0.0, ,19.8,2.4,96,38,2.86,24.43
+WANDERING,12/10/2023,4.5,0.0, ,23.5,2.7,98,26,2.39,24.66
+WANDERING,13/10/2023,5.0,0.0, ,27.8,3.4,98,20,2.09,24.73
+WANDERING,14/10/2023,5.6,0.0, ,29.7,4.8,98,19,2.52,24.79
+WANDERING,15/10/2023,5.6,0.0, ,29.7,6.3,96,20,2.61,24.80
+WANDERING,16/10/2023,6.5,0.0, ,33.9,11.8,81,13,2.72,24.01
+WANDERING,17/10/2023,7.5,0.0, ,35.5,5.5,91,10,3.16,24.78
+WANDERING,18/10/2023,4.0,0.0, ,25.1,9.3,95,40,2.63,18.64
+WANDERING,19/10/2023,4.7,0.0, ,25.5,6.8,94,34,2.62,23.52
+WANDERING,20/10/2023,5.0,0.0, ,27.9,6.2,92,23,2.11,23.77
+WANDERING,21/10/2023,5.1,0.0, ,31.4,13.5,75,22,2.18,19.12
+WANDERING,22/10/2023,3.9,0.0, ,24.8,9.4,92,51,3.02,18.97
+WANDERING,23/10/2023,4.6,0.0, ,20.3,7.3,94,30,3.69,24.43
+WANDERING,24/10/2023,4.6,0.0, ,22.8,1.6,90,21,2.50,24.26
+WANDERING,25/10/2023,7.3,0.0, ,30.7,8.0,69,15,4.12,25.37
+WANDERING,26/10/2023,4.4,0.0, ,24.7,13.6,93,44,3.09,20.92
+WANDERING,27/10/2023,4.6,0.0, ,21.8,3.7,96,24,3.25,22.93
+WANDERING,28/10/2023,5.0,0.0, ,25.2,2.7,93,26,2.60,25.44
+WANDERING,29/10/2023,3.6,0.0, ,23.8,3.1,94,43,2.85,15.77
+WANDERING,30/10/2023,5.2,0.0, ,22.7,2.5,94,24,3.74,25.82
+WANDERING,31/10/2023,4.9,0.0, ,25.3,4.7,92,24,2.53,23.91
+Totals:,,146.9,7.2, ,,,,,, 

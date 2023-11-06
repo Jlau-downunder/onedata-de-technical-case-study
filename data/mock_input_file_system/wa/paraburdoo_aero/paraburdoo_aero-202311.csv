@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PARABURDOO AERO Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PARABURDOO AERO,28/10/2023,11.8,0.0, ,40.1,24.4,28,8,5.64,27.74
+PARABURDOO AERO,29/10/2023,8.4,0.0, ,39.4,21.4,26,9,2.83,27.60
+PARABURDOO AERO,30/10/2023,9.1,0.0, ,39.9,20.1,24,6,3.22,28.56
+PARABURDOO AERO,31/10/2023,12.6,0.0, ,41.0,16.5,16,4,5.81,28.65
+PARABURDOO AERO,01/11/2023,9.5,0.0, ,39.9,18.4,26,4,3.50,28.77
+PARABURDOO AERO,02/11/2023,8.5,0.0, ,40.2,19.1,30,8,2.72,28.83
+PARABURDOO AERO,03/11/2023,9.5,0.0, ,39.5,20.4,33,10,3.95,25.76
+Totals:,,69.4,0, ,,,,,, 

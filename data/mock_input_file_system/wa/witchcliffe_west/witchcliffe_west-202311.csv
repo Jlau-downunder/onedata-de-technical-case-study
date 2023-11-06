@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WITCHCLIFFE WEST Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WITCHCLIFFE WEST,28/10/2023,3.6,0.0, ,18.8,2.7,100,47,3.39,23.05
+WITCHCLIFFE WEST,29/10/2023,3.5,2.8, ,19.1,13.2,100,57,3.97,20.09
+WITCHCLIFFE WEST,30/10/2023,2.7,0.0, ,17.4,10.4,97,56,3.83,13.36
+WITCHCLIFFE WEST,31/10/2023,5.1,0.0, ,23.5,7.5,100,39,4.21,27.26
+WITCHCLIFFE WEST,01/11/2023,5.3,0.0, ,24.8,10.4,100,47,5.30,27.62
+WITCHCLIFFE WEST,02/11/2023,5.2,0.0, ,24.2,12.0,100,51,6.27,27.80
+WITCHCLIFFE WEST,03/11/2023,6.8,0.0, ,30.2,11.7,93,35,5.31,26.41
+Totals:,,32.2,2.8, ,,,,,, 

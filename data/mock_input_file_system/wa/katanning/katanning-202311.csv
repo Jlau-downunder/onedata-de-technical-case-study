@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KATANNING Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KATANNING,28/10/2023,4.9,0.0, ,23.3,3.1,82,21,2.58,25.45
+KATANNING,29/10/2023,4.7,0.0, ,23.3,8.0,77,33,3.79,19.42
+KATANNING,30/10/2023,4.3,0.0, ,20.6,4.7,81,32,3.49,19.91
+KATANNING,31/10/2023,4.9,0.0, ,23.4,5.2,88,26,3.17,22.74
+KATANNING,01/11/2023,6.3,0.0, ,27.9,7.1,89,18,3.52,26.45
+KATANNING,02/11/2023,6.5,0.0, ,27.3,9.9,88,28,5.22,25.47
+KATANNING,03/11/2023,7.3,0.0, ,27.8,10.6,80,19,5.55,26.00
+Totals:,,38.9,0, ,,,,,, 

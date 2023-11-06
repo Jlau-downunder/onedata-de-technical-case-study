@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for NORTH WALPOLE Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+NORTH WALPOLE,28/10/2023,3.5,0.0, ,18.4,5.0,96,51,2.88,22.70
+NORTH WALPOLE,29/10/2023,3.2,2.0, ,18.2,12.3,98,56,3.53,18.29
+NORTH WALPOLE,30/10/2023,2.7,0.0, ,17.2,11.0,89,59,2.36,14.22
+NORTH WALPOLE,31/10/2023,3.6,0.0, ,19.2,11.8,92,51,2.99,20.01
+NORTH WALPOLE,01/11/2023,4.3,0.0, ,21.4,10.1,98,57,3.43,26.81
+NORTH WALPOLE,02/11/2023,3.9,0.0, ,20.5,13.1,87,58,4.64,19.99
+NORTH WALPOLE,03/11/2023,5.2,0.0, ,23.8,12.2,86,47,4.48,27.30
+Totals:,,26.4,2, ,,,,,, 

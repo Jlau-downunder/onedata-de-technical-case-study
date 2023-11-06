@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for KARIJINI NORTH Western Australia for February 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 March 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+KARIJINI NORTH,01/02/2023,10.3,0.0, ,40.6,28.2,52,10,4.22,29.55
+KARIJINI NORTH,02/02/2023,7.4,0.0, ,39.7,23.3,86,23,3.34,21.73
+KARIJINI NORTH,03/02/2023,7.4,0.6, ,38.2,22.3,89,22,3.02,25.11
+KARIJINI NORTH,04/02/2023,6.5,1.4, ,35.9,23.8,79,27,3.53,18.27
+KARIJINI NORTH,05/02/2023,8.4,1.2, ,37.5,26.5,55,18,3.68,24.92
+KARIJINI NORTH,06/02/2023,10.0,0.0, ,39.5,27.3,56,12,4.33,28.62
+KARIJINI NORTH,07/02/2023,7.9,0.0, ,39.7,23.5,79,18,2.54,28.39
+KARIJINI NORTH,08/02/2023,8.4,0.0, ,41.1,25.2,63,14,2.59,29.10
+KARIJINI NORTH,09/02/2023,9.4,0.0, ,42.5,24.1,62,9,3.31,29.02
+KARIJINI NORTH,10/02/2023,11.1,0.0, ,43.5,27.7,59,10,4.96,26.63
+KARIJINI NORTH,11/02/2023,7.8,0.8, ,42.6,27.8,53,17,3.03,19.83
+KARIJINI NORTH,12/02/2023,10.1,0.2, ,43.5,24.5,61,11,4.47,22.90
+KARIJINI NORTH,13/02/2023,11.7,0.6, ,41.8,28.5,45,12,5.89,25.24
+KARIJINI NORTH,14/02/2023,10.4,0.0, ,39.9,26.7,43,16,5.83,19.85
+KARIJINI NORTH,15/02/2023,10.3,0.0, ,42.1,28.5,41,12,4.40,25.56
+KARIJINI NORTH,16/02/2023,11.5,0.0, ,42.8,30.7,24,10,5.04,25.66
+KARIJINI NORTH,17/02/2023,9.1,0.0, ,44.3,24.2,68,7,2.96,27.55
+KARIJINI NORTH,18/02/2023, ,0.0, , ,25.9,65,13,4.53,27.83
+KARIJINI NORTH,19/02/2023, , , , , ,62,15,4.62,26.76
+KARIJINI NORTH,20/02/2023, , , , , , , , ,27.10
+KARIJINI NORTH,21/02/2023, , , , , , , , ,27.51
+KARIJINI NORTH,22/02/2023, , , , , , , , ,20.35
+KARIJINI NORTH,23/02/2023, , , , , , , , ,25.49
+KARIJINI NORTH,24/02/2023, , , , , , , , ,22.07
+KARIJINI NORTH,25/02/2023, , , , , , , , ,27.19
+KARIJINI NORTH,26/02/2023, , , , , , , , ,26.20
+KARIJINI NORTH,27/02/2023, , , , , , , , ,24.77
+KARIJINI NORTH,28/02/2023, , , , , , , , ,19.11
+Totals:,,157.7,4.8, ,,,,,, 

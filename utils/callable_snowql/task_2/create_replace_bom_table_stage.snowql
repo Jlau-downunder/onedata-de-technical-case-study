@@ -1,0 +1,13 @@
+CREATE OR REPLACE TABLE source.bom_table_stage
+    ( weather_station VARCHAR(255)
+    , date VARCHAR(255)
+    , evapo_transpiration_mm VARCHAR(255)
+    , rain_mm VARCHAR(255)
+    , pan_evaporation_mm VARCHAR(255)
+    , temperature_max VARCHAR(255)
+    , temperature_min VARCHAR(255)
+    , humiditiy_min VARCHAR(255)
+    , humidity_max VARCHAR(255)
+    , avg_wind_speed_mps VARCHAR(255)
+    , solar_radiation VARCHAR(255)
+    );

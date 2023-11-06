@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for WANDERING Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+WANDERING,28/10/2023,5.0,0.0, ,25.2,2.7,93,26,2.60,25.44
+WANDERING,29/10/2023,3.6,0.0, ,23.8,3.1,94,43,2.85,15.77
+WANDERING,30/10/2023,5.2,0.0, ,22.7,2.5,94,24,3.74,25.82
+WANDERING,31/10/2023,4.9,0.0, ,25.3,4.7,92,24,2.53,23.91
+WANDERING,01/11/2023,6.0,0.0, ,29.7,4.9,95,19,2.68,26.14
+WANDERING,02/11/2023,7.2,0.0, ,31.0,8.1,95,19,4.19,26.08
+WANDERING,03/11/2023,7.4,0.0, ,31.7,11.7,76,20,4.30,24.68
+Totals:,,39.3,0, ,,,,,, 

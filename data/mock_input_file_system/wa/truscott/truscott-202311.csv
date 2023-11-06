@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for TRUSCOTT Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+TRUSCOTT,28/10/2023,7.7,0.0, ,38.5,22.0,85,10,2.62,27.84
+TRUSCOTT,29/10/2023,6.5,0.0, ,35.4,22.6,100,39,2.17,27.89
+TRUSCOTT,30/10/2023,6.1,0.0, ,33.3,23.9,100,46,2.26,27.02
+TRUSCOTT,31/10/2023,6.4,0.0, ,34.1,24.6,100,47,2.54,27.77
+TRUSCOTT,01/11/2023, ,0.0, , ,26.7,93,43,2.70,11.51
+TRUSCOTT,02/11/2023, , , ,34.6, ,98,55,2.70,28.14
+TRUSCOTT,03/11/2023,6.7,0.0, ,35.5,25.1,100,44,2.53,28.20
+Totals:,,33.4,0, ,,,,,, 

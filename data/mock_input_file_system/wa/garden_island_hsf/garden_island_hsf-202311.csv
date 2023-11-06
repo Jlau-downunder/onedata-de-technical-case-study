@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for GARDEN ISLAND HSF Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+GARDEN ISLAND HSF,28/10/2023,5.2,0.0, ,20.2,11.7,75,50,8.19,27.43
+GARDEN ISLAND HSF,29/10/2023,3.6,0.0, ,19.9,13.4,85,66,5.10,19.36
+GARDEN ISLAND HSF,30/10/2023,5.4,0.2, ,20.3,11.5,79,46,9.08,27.61
+GARDEN ISLAND HSF,31/10/2023,6.9,0.0, ,25.0,13.3,82,31,8.05,26.46
+GARDEN ISLAND HSF,01/11/2023,5.2,0.0, ,24.3,14.3,86,61,7.03,27.95
+GARDEN ISLAND HSF,02/11/2023, ,0.0, , ,16.6,76,38,6.51,27.95
+GARDEN ISLAND HSF,03/11/2023, , , ,33.7, ,60,23,6.61,25.68
+Totals:,,26.3,0.2, ,,,,,, 

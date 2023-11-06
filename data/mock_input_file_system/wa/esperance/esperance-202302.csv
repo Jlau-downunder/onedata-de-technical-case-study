@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ESPERANCE Western Australia for February 2023,,,,,,,,,,
+Issued at 22:30 GMT on Wednesday 01 March 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ESPERANCE,01/02/2023,4.7,0.0, ,21.1,16.9,82,49,6.07,20.66
+ESPERANCE,02/02/2023,3.3,0.0, ,21.6,14.2,90,61,4.97,14.07
+ESPERANCE,03/02/2023,5.1,0.0, ,21.5,15.1,75,54,5.42,26.49
+ESPERANCE,04/02/2023,7.4,0.0, ,29.7,16.9,71,33,5.12,28.42
+ESPERANCE,05/02/2023,9.3,0.0, ,34.6,16.4,73,22,5.92,28.05
+ESPERANCE,06/02/2023,7.5,0.0, ,34.4,19.3,72,23,5.98,11.31
+ESPERANCE,07/02/2023,5.7,0.0, ,25.9,18.6,93,48,4.70,27.53
+ESPERANCE,08/02/2023,3.4,0.0, ,23.3,18.7,87,61,4.41,12.77
+ESPERANCE,09/02/2023,4.3,0.0, ,21.8,18.4,74,59,4.36,18.57
+ESPERANCE,10/02/2023,5.2,0.0, ,24.1,17.1,87,55,4.44,27.23
+ESPERANCE,11/02/2023,5.1,0.0, ,22.7,17.7,87,48,5.49,24.21
+ESPERANCE,12/02/2023,5.2,0.0, ,22.9,15.5,77,53,5.11,26.58
+ESPERANCE,13/02/2023, ,0.0, , ,13.5,83,44,4.96,27.11
+ESPERANCE,14/02/2023, , , , , ,77,36,6.56,23.14
+ESPERANCE,15/02/2023,3.9, , ,23.1,16.4,92,52,4.00,17.32
+ESPERANCE,16/02/2023,4.8,0.0, ,24.3,11.3,94,51,4.06,26.49
+ESPERANCE,17/02/2023,5.4,0.0, ,25.9,14.1,94,39,3.73,26.45
+ESPERANCE,18/02/2023,4.6,0.0, ,24.7,15.4,97,65,4.88,26.34
+ESPERANCE,19/02/2023,4.2,0.0, ,24.2,19.3,92,74,6.33,23.42
+ESPERANCE,20/02/2023,3.8,0.0, ,27.1,19.8,91,68,6.68,14.16
+ESPERANCE,21/02/2023,11.6,1.0, ,43.9,18.9,93,17,6.20,25.22
+ESPERANCE,22/02/2023,2.2,4.2, ,22.5,19.6,95,72,3.59,8.21
+ESPERANCE,23/02/2023,2.6,2.0, ,19.9,18.7,95,55,4.68,7.15
+ESPERANCE,24/02/2023,4.7,0.2, ,20.9,15.3,78,45,4.25,23.72
+ESPERANCE,25/02/2023,4.6,0.2, ,23.6,11.8,90,51,4.16,24.24
+ESPERANCE,26/02/2023,4.1,0.0, ,22.6,14.7,95,65,4.50,24.74
+ESPERANCE,27/02/2023,3.9,0.0, ,23.8,14.2,91,62,5.13,19.04
+ESPERANCE,28/02/2023,4.2,0.0, ,22.6,17.6,90,53,5.57,18.34
+Totals:,,130.8,7.6, ,,,,,, 

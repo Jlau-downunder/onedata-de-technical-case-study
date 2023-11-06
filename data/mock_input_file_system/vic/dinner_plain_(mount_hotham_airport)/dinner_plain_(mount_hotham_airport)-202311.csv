@@ -1,0 +1,21 @@
+'IDCKWCDE61,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for DINNER PLAIN (MOUNT HOTHAM AIRPORT) Victoria for November 2023,,,,,,,,,,
+Issued at 22:30 GMT on Thursday 02 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+DINNER PLAIN (MOUNT HOTHAM AIRPORT),26/10/2023,2.4,2.8, ,8.8,-3.1,99,52,3.91,20.21
+DINNER PLAIN (MOUNT HOTHAM AIRPORT),27/10/2023,2.8,0.2, ,10.7,-3.3,99,48,2.12,23.16
+DINNER PLAIN (MOUNT HOTHAM AIRPORT),28/10/2023,3.2,0.0, ,13.0,-1.2,94,42,4.90,20.36
+DINNER PLAIN (MOUNT HOTHAM AIRPORT),29/10/2023,5.4,0.0, ,18.5,4.8,61,27,6.28,24.61
+DINNER PLAIN (MOUNT HOTHAM AIRPORT),30/10/2023,4.2,2.4, ,12.9,6.9,87,30,8.48,22.69
+DINNER PLAIN (MOUNT HOTHAM AIRPORT),31/10/2023,3.8,0.6, ,12.6,1.2,91,35,4.41,26.57
+DINNER PLAIN (MOUNT HOTHAM AIRPORT),01/11/2023,3.3,0.0, ,13.7,-0.1,99,46,2.21,25.43
+Totals:,,25.1,6, ,,,,,, 

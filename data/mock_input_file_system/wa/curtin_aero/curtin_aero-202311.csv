@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for CURTIN AERO Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+CURTIN AERO,28/10/2023,7.9, , ,40.0,23.5,96,18,2.75,28.29
+CURTIN AERO,29/10/2023,8.1,0.0, ,39.1,23.1,98,23,3.35,27.86
+CURTIN AERO,30/10/2023,7.5,0.0, ,37.0,23.4,97,43,3.83,28.53
+CURTIN AERO,31/10/2023,7.6,0.0, ,37.5,22.8,98,35,3.44,28.49
+CURTIN AERO,01/11/2023,7.9,0.0, ,39.3,22.7,97,22,3.07,27.34
+CURTIN AERO,02/11/2023,8.5,0.0, ,41.0,22.9,88,17,3.11,28.26
+CURTIN AERO,03/11/2023,8.7,0.0, ,42.6,24.3,87,20,3.11,27.81
+Totals:,,56.2,0, ,,,,,, 

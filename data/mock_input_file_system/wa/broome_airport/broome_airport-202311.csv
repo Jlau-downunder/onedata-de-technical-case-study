@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for BROOME AIRPORT Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+BROOME AIRPORT,28/10/2023,6.7,0.0, ,34.4,23.9,94,40,2.59,28.28
+BROOME AIRPORT,29/10/2023,6.1,0.0, ,32.4,23.8,97,64,3.13,28.42
+BROOME AIRPORT,30/10/2023, ,0.0, , ,26.7,90,67,3.42,27.84
+BROOME AIRPORT,31/10/2023, , , ,32.3, ,88,66,3.76,28.32
+BROOME AIRPORT,01/11/2023,6.0,0.0, ,31.9,24.7,92,66,3.28,27.92
+BROOME AIRPORT,02/11/2023,7.0,0.0, ,33.4,26.3,86,53,3.85,28.61
+BROOME AIRPORT,03/11/2023,6.3,0.0, ,32.8,25.9,90,61,3.16,27.93
+Totals:,,32.1,0, ,,,,,, 

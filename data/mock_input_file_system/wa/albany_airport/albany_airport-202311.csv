@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for ALBANY AIRPORT Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+ALBANY AIRPORT,28/10/2023,4.4,0.0, ,21.5,3.0,97,39,4.26,22.85
+ALBANY AIRPORT,29/10/2023,3.2,2.8, ,18.0,11.5,98,54,4.81,17.18
+ALBANY AIRPORT,30/10/2023,2.6,0.0, ,16.9,12.4,96,58,3.43,12.92
+ALBANY AIRPORT,31/10/2023,3.1,0.4, ,19.3,10.2,96,64,3.08,18.40
+ALBANY AIRPORT,01/11/2023,4.0,0.2, ,21.7,8.7,99,59,3.57,25.05
+ALBANY AIRPORT,02/11/2023,4.4,0.0, ,22.6,9.2,99,47,4.44,22.41
+ALBANY AIRPORT,03/11/2023,5.2,0.0, ,23.1,13.1,84,48,6.75,23.33
+Totals:,,26.9,3.4, ,,,,,, 

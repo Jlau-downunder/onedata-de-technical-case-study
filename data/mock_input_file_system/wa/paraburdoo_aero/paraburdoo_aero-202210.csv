@@ -1,0 +1,42 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for PARABURDOO AERO Western Australia for October 2022,,,,,,,,,,
+Issued at 22:30 GMT on Tuesday 01 November 2022,,,,,,,,,,
+© Copyright Commonwealth of Australia 2022 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+PARABURDOO AERO,01/10/2022,5.8, , ,29.2,14.1,94,26,3.08,25.36
+PARABURDOO AERO,02/10/2022,6.1, , ,29.9,14.6,78,24,3.55,23.08
+PARABURDOO AERO,03/10/2022,6.6, , ,27.5,15.4,72,24,4.54,25.49
+PARABURDOO AERO,04/10/2022,7.7, , ,32.7,17.6,58,18,4.17,25.90
+PARABURDOO AERO,05/10/2022,7.8, , ,33.4,15.2,46,18,3.96,25.96
+PARABURDOO AERO,06/10/2022,7.2, , ,29.9,18.2,62,17,4.10,26.11
+PARABURDOO AERO,07/10/2022,7.5, , ,32.3,13.8,40,13,3.62,25.79
+PARABURDOO AERO,08/10/2022,8.9, , ,35.2,18.4,29,11,4.30,26.32
+PARABURDOO AERO,09/10/2022,7.9, , ,36.8,18.5,42,11,3.17,26.24
+PARABURDOO AERO,10/10/2022,8.1, , ,35.4,16.0,40,8,3.48,26.57
+PARABURDOO AERO,11/10/2022,8.0, , ,32.4,18.7,36,13,3.88,26.38
+PARABURDOO AERO,12/10/2022, , , , ,18.2,100,13,3.29,24.59
+PARABURDOO AERO,16/10/2022, , , , , , , , ,27.19
+PARABURDOO AERO,17/10/2022, , , , , , , , ,27.29
+PARABURDOO AERO,18/10/2022, , , ,33.7, ,28,8,4.78,27.38
+PARABURDOO AERO,19/10/2022,9.9, , ,37.5,14.6,35,10,4.69,26.94
+PARABURDOO AERO,20/10/2022,9.1, , ,37.9,19.8,60,13,4.36,26.00
+PARABURDOO AERO,21/10/2022,9.4, , ,38.1,20.0,57,13,4.41,27.68
+PARABURDOO AERO,22/10/2022,10.1, , ,35.9,19.1,41,9,5.19,27.80
+PARABURDOO AERO,23/10/2022,10.1, , ,36.7,14.3,30,9,4.86,27.89
+PARABURDOO AERO,24/10/2022,8.5, , ,31.9,18.2,48,20,4.91,27.87
+PARABURDOO AERO,25/10/2022,8.2, , ,30.9,19.1,31,11,3.98,28.08
+PARABURDOO AERO,26/10/2022,8.2, , ,34.7,15.4,27,9,3.31,28.17
+PARABURDOO AERO,27/10/2022,9.6, , ,38.4,14.3,28,9,4.00,28.02
+PARABURDOO AERO,28/10/2022,10.0, , ,35.4,20.6,41,12,5.25,28.34
+PARABURDOO AERO,29/10/2022,8.5, , ,28.6,17.5,56,19,6.30,27.84
+PARABURDOO AERO,30/10/2022,8.3, , ,27.7,16.8,66,12,6.06,28.18
+PARABURDOO AERO,31/10/2022,9.3, , ,27.9,14.9,22,9,6.16,28.58
+Totals:,,200.8, , ,,,,,, 

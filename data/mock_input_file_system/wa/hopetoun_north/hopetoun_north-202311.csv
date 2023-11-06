@@ -1,0 +1,21 @@
+'IDCKWCDE11,,,,,,,,,,
+Australian Government Bureau of Meteorology,,,,,,,,,,
+South Australia,,,,,,,,,,
+
+Daily Evapotranspiration for HOPETOUN NORTH Western Australia for November 2023,,,,,,,,,,
+Issued at 06:31 GMT on Saturday 04 November 2023,,,,,,,,,,
+© Copyright Commonwealth of Australia 2023 Bureau of Meteorology (ABN 92 637 533 532),,,,,,,,,,
+Please note Copyright Disclaimer and Privacy Notice <http://www.bom.gov.au/other/copyright.shtml>,,,,,,,,,,
+
+,,Evapo-,,Pan,,,Maximum,Minimum,Average,
+,,Transpiration,Rain,Evaporation,Maximum,Minimum,Relative,Relative,10m Wind,Solar
+Station Name,Date,0000-2400,0900-0900,0900-0900,Temperature,Temperature,Humidity,Humidity,Speed,Radiation
+,,(mm),(mm),(mm),(°C),(°C),(%),(%),(m/sec),(MJ/sq m)
+HOPETOUN NORTH,28/10/2023,4.2,0.2, ,19.4,6.3,83,43,3.07,25.65
+HOPETOUN NORTH,29/10/2023,4.3,0.0, ,21.3,12.1,76,56,5.38,21.07
+HOPETOUN NORTH,30/10/2023,3.6,0.0, ,18.9,13.2,87,49,4.33,16.16
+HOPETOUN NORTH,31/10/2023,3.7,0.4, ,19.6,12.3,95,57,4.04,21.00
+HOPETOUN NORTH,01/11/2023,4.1,0.0, ,20.6,9.5,96,61,4.64,26.94
+HOPETOUN NORTH,02/11/2023,4.3,0.0, ,20.7,10.1,99,53,4.52,26.21
+HOPETOUN NORTH,03/11/2023,4.9,0.0, ,21.4,11.1,88,48,6.04,26.09
+Totals:,,29.1,0.6, ,,,,,, 
