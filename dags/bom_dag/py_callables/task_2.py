@@ -74,7 +74,7 @@ try:
             cursor.execute(load_files_into_table_stage)
             print(f"Loaded {csv_file} into Snowflake table stage: {target_table_stage}")
 
-    print("< Load staged files into staging table operation complete> ")
+    print("< Load staged files into staging table operation complete >")
 except Exception as e:
     print(f"Error: {str(e)}")
 

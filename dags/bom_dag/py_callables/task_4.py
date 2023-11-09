@@ -18,9 +18,11 @@ conn = snowflake.connector.connect(
 )
 cursor = conn.cursor()
 
+callable_snowql_path = '/opt/airflow/utils/callable_snowql/task_4/'
+
 try:
     try:
-        with open('/opt/airflow/utils/callable_snowql/task_4/insert_into_evapo_transpiration_year_partitioned.snowql', 'r') as sql_file:
+        with open(f"{callable_snowql_path}insert_into_evapo_transpiration_year_partitioned.snowql", 'r') as sql_file:
             insert_into_evapo_transpiration_year_partitioned = sql_file.read().split(';')
 
             for sql_insert_statements in insert_into_evapo_transpiration_year_partitioned:
@@ -33,7 +35,7 @@ try:
 
 
     try:
-        with open('/opt/airflow/utils/callable_snowql/task_4/insert_into_humidity_year_partitioned.snowql', 'r') as sql_file:
+        with open(f"{callable_snowql_path}insert_into_humidity_year_partitioned.snowql", 'r') as sql_file:
             insert_into_humidity_year_partitioned = sql_file.read().split(';')
 
             for sql_insert_statements in insert_into_humidity_year_partitioned:
@@ -46,7 +48,7 @@ try:
 
 
     try:
-        with open('/opt/airflow/utils/callable_snowql/task_4/insert_into_pan_transpiration_year_partitioned.snowql', 'r') as sql_file:
+        with open(f"{callable_snowql_path}insert_into_pan_transpiration_year_partitioned.snowql", 'r') as sql_file:
             insert_into_pan_transpiration_year_partitioned = sql_file.read().split(';')
 
             for sql_insert_statements in insert_into_pan_transpiration_year_partitioned:
@@ -59,7 +61,7 @@ try:
 
 
     try:
-        with open('/opt/airflow/utils/callable_snowql/task_4/insert_into_rain_year_partitioned.snowql', 'r') as sql_file:
+        with open(f"{callable_snowql_path}insert_into_rain_year_partitioned.snowql", 'r') as sql_file:
             insert_into_rain_year_partitioned = sql_file.read().split(';')
 
             for sql_insert_statements in insert_into_rain_year_partitioned:
@@ -72,7 +74,7 @@ try:
 
 
     try:
-        with open('/opt/airflow/utils/callable_snowql/task_4/insert_into_solar_radiation_partitioned.snowql', 'r') as sql_file:
+        with open(f"{callable_snowql_path}insert_into_solar_radiation_partitioned.snowql", 'r') as sql_file:
             insert_into_solar_radiation_partitioned = sql_file.read().split(';')
 
             for sql_insert_statements in insert_into_solar_radiation_partitioned:
@@ -85,7 +87,7 @@ try:
 
 
     try:
-        with open('/opt/airflow/utils/callable_snowql/task_4/insert_into_temperature_partitioned.snowql', 'r') as sql_file:
+        with open(f"{callable_snowql_path}insert_into_temperature_partitioned.snowql", 'r') as sql_file:
             insert_into_temperature_partitioned = sql_file.read().split(';')
 
             for sql_insert_statements in insert_into_temperature_partitioned:
@@ -98,7 +100,7 @@ try:
 
 
     try:
-        with open('/opt/airflow/utils/callable_snowql/task_4/insert_into_wind_speed_partitioned.snowql', 'r') as sql_file:
+        with open(f"{callable_snowql_path}insert_into_wind_speed_partitioned.snowql", 'r') as sql_file:
             insert_into_wind_speed_partitioned = sql_file.read().split(';')
 
             for sql_insert_statements in insert_into_wind_speed_partitioned:
